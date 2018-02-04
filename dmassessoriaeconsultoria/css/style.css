@@ -1,0 +1,22 @@
+.rounded-circle{
+
+  background-color: #bf0707;
+
+
+}
+
+
+.btn-secondary{
+
+    background-color: #bf0707;
+}
+
+.btn-send{
+  background-color: #02C54C;
+  color:#fff;
+}
+
+.btn-send:hover{
+  
+  color:#fff;
+}
