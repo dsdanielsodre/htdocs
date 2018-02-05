@@ -17,17 +17,20 @@
 
       <header>
         <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-          <a class="navbar-brand" href="#">Home</a>
+          <a class="navbar-brand" href="#">DM</a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav mr-auto">
               <li class="nav-item active">
-                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="#">Produtos <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Link</a>
+                <a class="nav-link" href="#">Manutenções</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">NR23</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link disabled" href="#">Disabled</a>
@@ -97,25 +100,27 @@
         <!-- Wrap the rest of the page in another container to center all the content. -->
 
         <div class="container marketing">
-
+        </br>
           <!-- Three columns of text below the carousel -->
           <div class="row">
             <div class="col-lg-4">
-              <img class="rounded-circle" src="img/fundoVermelho.jpg" alt="Generic placeholder image" width="140" height="140" style="background-color: red;">
-              <h2>Produtos</h2>
-              <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+              <img class="rounded-circle" src="img/valvula2.jpg" alt="Generic placeholder image" width="140" height="140" style="background-color: red;">
+              <h2>Produtos</h2> <!-- PRODUTOS -->
+              <p>A troca de peças se faz necessária devido ao desgaste físico das mesmas. </p>
               <p><a class="btn btn-secondary" href="#" role="button">Detalhes &raquo;</a></p>
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-4">
-              <img class="rounded-circle" src="img/fundoVermelho.jpg" alt="Generic placeholder image" width="140" height="140">
-              <h2>Manutenções</h2>
-              <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+              <img class="rounded-circle" src="img/extintor2.png" alt="Generic placeholder image" width="140" height="140">
+              <h2>Manutenções</h2>  <!-- MANUTENÇÕES -->
+              <p>  DM Assessoria e Consultoria vêm com o objetivo de conscientizar a importância da prevenção no combate a incêndio, 
+                pois muitas pessoas podem imaginar que o extintor é um equipamento ultrapassado. Porém, estatísticas mostram que
+                cerca de 90% dos incêndios  se desenvolvem a partir de minúsculos focos.</p>
               <p><a class="btn btn-secondary" href="#" role="button">Detalhes &raquo;</a></p>
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-4">
-              <img class="rounded-circle" src="img/fundoVermelho.jpg" alt="Generic placeholder image" width="140" height="140">
-              <h2>Treinamentos</h2>
-              <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+              <img class="rounded-circle" src="img/nr23.png" alt="Generic placeholder image" width="140" height="140">
+              <h2>NR23</h2>  <!-- NR23 -->
+              <p>NR 23 Inspeção de extintores de incêndio.</p>
               <p><a class="btn btn-secondary" href="#" role="button">Detalhes &raquo;</a></p>
             </div><!-- /.col-lg-4 -->
           </div><!-- /.row -->
@@ -127,10 +132,27 @@
 
           <div class="row featurette">
             <div class="col-md-7">
-              <h2 class="featurette-heading">Nossos Produtos. <span class="text-muted">It'll blow your mind.</span></h2>
-              <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+              <h2 class="featurette-heading">Nossos Produtos. <span class="text-muted">Peças e Acessórios para Extintores de Incendio.</span></h2>
+              <p class="lead">Donec ullamcorper nulla non metus auctor fringilla.
+                Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna,
+                vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+                <p><a class="btn btn-green btn-buy" href="#" role="button">Comprar &raquo;</a></p>
             </div>
             <div class="col-md-5">
+              <img class="featurette-image img-fluid mx-auto" src="img/valvula2.jpg" alt="Generic placeholder image">
+            </div>
+
+
+          </div>
+
+          <hr class="featurette-divider">
+
+          <div class="row featurette">
+            <div class="col-md-7 order-md-2">
+              <h2 class="featurette-heading">Manutenções. <span class="text-muted">Extintores de Incêndio.</span></h2>
+              <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+            </div>
+            <div class="col-md-5 order-md-1">
               <img class="featurette-image img-fluid mx-auto" src="img/extintor.jpg" alt="Generic placeholder image">
             </div>
           </div>
@@ -138,30 +160,19 @@
           <hr class="featurette-divider">
 
           <div class="row featurette">
-            <div class="col-md-7 order-md-2">
-              <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-              <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-            </div>
-            <div class="col-md-5 order-md-1">
-              <img class="featurette-image img-fluid mx-auto" src="img/treinamentos.jpg" alt="Generic placeholder image">
-            </div>
-          </div>
-
-          <hr class="featurette-divider">
-
-          <div class="row featurette">
             <div class="col-md-7">
-              <h2 class="featurette-heading">Treinamentos. <span class="text-muted">Marque o seu.</span></h2>
+              <h2 class="featurette-heading">NR23. <span class="text-muted">Segurança.</span></h2>
               <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
             </div>
             <div class="col-md-5">
-              <img class="featurette-image img-fluid mx-auto" src="img/treinamentos.jpg" alt="Generic placeholder image">
+              <img class="featurette-image img-fluid mx-auto" src="img/nr23.png" alt="Generic placeholder image">
             </div>
           </div>
 
           <hr class="featurette-divider">
 
-
+  <h2 class="featurette-heading">Solicite Aqui. <span class="text-muted">Mande sua Mensagem.</span></h2>
+          </br>
 <form> <!--FORMS--->
   <div class="form-group"> <!-- NOME -->
     <label for="exampleFormControlInput1">Nome</label>
@@ -182,7 +193,7 @@
   </div>
 
   <!-- <input type="button" name="botao-ok" value="Enviar">-->
-  <p><a class="btn btn-send" href="#" role="button">Enviar &raquo;</a></p>
+  <p><a class="btn btn-green" href="#" role="button">Enviar &raquo;</a></p>
 
 </form>
 

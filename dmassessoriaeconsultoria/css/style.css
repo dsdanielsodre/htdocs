@@ -11,12 +11,24 @@
     background-color: #bf0707;
 }
 
-.btn-send{
+.btn-green{
   background-color: #02C54C;
+  color:#fff;
+
+}
+
+.btn-buy{
+  color: #DCDCDC;
+  margin-left: 78%;
+
+}
+.btn-send:hover{
+
   color:#fff;
 }
 
-.btn-send:hover{
-  
-  color:#fff;
+footer{
+
+  background-color: #DCDCDC;
+
 }
