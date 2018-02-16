@@ -205,18 +205,17 @@
 
         </div><!-- /.container -->
 
-  </main>
-  </body>
+        </main>
         <!-- FOOTER -->
         <footer>
 
           <div class="caixa">
               <h2 class="featurette-heading">Sobre Nós. <span class="text-muted"></h2>
-            <p> Na Damiao Machado, nos dedicamos em fornecer a nossos clientes um serviço cordial. Nós valorizamos seu negócio. Tornamos nossa missão o fornecimento de produtos e serviços confiáveis em nossa abordagem voltada ao cliente.</p>
+            <p></p>    Na Damiao Machado, nos dedicamos em fornecer a nossos clientes um serviço cordial. Nós valorizamos seu negócio. Tornamos nossa missão o fornecimento de produtos e serviços confiáveis em nossa abordagem voltada ao cliente.</p>
 
 <p>Nossa equipe cortês e profissional dispõe de uma variedade de serviços para atender suas necessidades.</p>
 
-<p>Para saber mais sobre a Damiao Machado e os produtos e serviços que oferecemos, ligue para 55-11-957938458. </p>
+</p>Para saber mais sobre a Damiao Machado e os produtos e serviços que oferecemos, ligue para 55-11-957938458. </p>
 
           </div>
 
@@ -233,13 +232,25 @@
             cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
           </div>
+
+          <div class="caixa">
+
+
           <p class="float-right"><a href="#">Voltar ao topo</a></p>
           <p>&copy; 2018 DM Assesoria e Consultoria, Inc. &middot; <a href="#">Privacidade</a> &middot; <a href="#">Termos</a></p>
           <p><a href="#">Fale Conosco.</a></p>
           <p>Fone: 55-11-957938458. </p>
           <p>Email: usuario@email.com. </p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+          voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          </div>
+
+
         </footer>
 
 
+      </body>
 
 </html>
