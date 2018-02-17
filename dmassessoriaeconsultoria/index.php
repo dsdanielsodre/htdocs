@@ -205,11 +205,11 @@
 
         </div><!-- /.container -->
 
-        </main>
+
         <!-- FOOTER -->
         <footer>
 
-          <div class="caixa">
+          <div class="caixa col-md-7">
               <h2 class="featurette-heading">Sobre Nós. <span class="text-muted"></h2>
             <p></p>    Na Damiao Machado, nos dedicamos em fornecer a nossos clientes um serviço cordial. Nós valorizamos seu negócio. Tornamos nossa missão o fornecimento de produtos e serviços confiáveis em nossa abordagem voltada ao cliente.</p>
 
@@ -219,21 +219,23 @@
 
           </div>
 
-          <div class="caixa">
+          <div class="caixa col-md-7">
               <h2 class="featurette-heading">Localização. <span class="text-muted"></h2>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
           </div>
 
-          <div class="caixa">
+          <div class="row">
+            <div class="col-md-7">
+              <div class="caixa">
             <h2 class="featurette-heading">Fale Conosco. <span class="text-muted"></h2>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
             cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
           </div>
-
-          <div class="caixa">
+        </div>
+          <div class="resto">
 
 
           <p class="float-right"><a href="#">Voltar ao topo</a></p>
@@ -249,7 +251,7 @@
 
 
         </footer>
-
+            </main>
 
       </body>
 

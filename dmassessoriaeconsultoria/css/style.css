@@ -64,12 +64,11 @@ height: auto;
 }
 
 footer{
-
+  position: relative;
+  float: left;
   background-color: #A30F12;
   color: #fff;
   bottom: 0;
-  width: 100%;
-
 
 }
 
@@ -80,14 +79,17 @@ footer{
   width: 20%;
   background-color:green;
   position: relative;
-  float: left;
+  float:left;
 }
 
+
 .resto {
-  margin-top: 100px;
-  width: 40%;
-
+  margin-top: 0px;
+  width: auto;
+  height:auto;
   background-color: blue;
-
+  text-align: center;
+  left: 50%;
+  float:left;
 
 }
