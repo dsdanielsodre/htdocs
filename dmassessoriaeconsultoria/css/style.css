@@ -5,10 +5,27 @@
 
 }
 
+html{
+
+  margin: 0;
+
+
+}
+main{
+
+  margin:  0;
+
+}
+
+.featurette{
+
+  position: relative;
+  float: left;
+  }
 
 body{
 position: relative;
-
+background-color: #DCDCDC;
 }
 
 .navbar .navbar-expand-md{
@@ -17,11 +34,22 @@ background-color: red;
 
 }
 
+.row{
+
+  width: 100%;
+
+}
 
 .carousel-item{
 
 
   background-color: #DCDCDC;
+
+}
+
+.carousel-caption{
+
+  color: #000;
 
 }
 
@@ -69,12 +97,35 @@ width: auto;
 height: auto;
 }
 
+.vertical-menu {
+    width: 200px;
+}
+
+.vertical-menu a {
+    background-color: #eee;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+}
+
+.vertical-menu a:hover {
+    background-color: #ccc;
+}
+
+.vertical-menu a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+
 footer{
   position: relative;
   float: left;
   background-color: #A30F12;
   color: #fff;
   bottom: 0;
+  right: 0;
   width: 100%;
 
 }
@@ -82,24 +133,65 @@ footer{
 .caixa{
 
   text-align: justify;
-  margin: 10px;
+
+  margin:50px;
+  margin-bottom: 100px;
 
 }
 
+.Menu-vertical{
 
-.resto {
-
-  width: auto;
-    margin: 10px;
-  text-align: justify;
-  left: 50%;
-  float:left;
+top: 200px;
+left: 100px;
+position: relative;
+float: left;
 
 }
 
-.fim{
-
-    margin: 10px;
-  text-align:justify;
-
+ ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+width: 200px;
+background-color: #f1f1f1;
 }
+
+li a {
+display: block;
+color: #000;
+padding: 8px 16px;
+text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+background-color: #555;
+color: white;
+}
+
+.featurette-vertical{
+  border-right: 1px solid #fff;
+}
+
+.featurette-horizontal{
+
+
+  border-bottom:  1px solid #fff;
+}
+
+ .copy{
+
+   text-align:center;
+   background-color:#4c080a;
+   width: 100%;
+   height: 100%;
+
+ }
+
+
+ .golden{
+
+
+   color: #daa520 ;
+
+ }
