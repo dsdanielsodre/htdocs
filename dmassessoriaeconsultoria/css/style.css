@@ -31,8 +31,8 @@ background-color: #fff;
 
 .navbar .navbar-expand-md{
 
-
-margin-bottom: 20px;
+  margin-bottom: 200px;
+  box-shadow: 0px 0px 5px #fff;
 }
 
 .row {
@@ -55,6 +55,27 @@ margin-bottom: 20px;
   margin-top: 50px;
 }
 
+#logo{
+
+margin:0;
+width: 100%;
+height: 100%;
+
+}
+
+.navbar-expand-md a{
+  word-spacing:  inherit;
+  line-height:inherit;
+  font-size: 20px;
+  color: #fff;
+}
+.navbar-brand{
+
+margin: 0;
+width: auto;
+height: 100%;
+
+}
 .carousel-item{
 
 
@@ -113,10 +134,11 @@ height: auto;
 }
 
 .vertical-menu {
+  margin: 20px;
+  margin-top: 100px;
     width: 200px;
-    position: ;
     float: left;
-    margin: 20px;
+
      box-shadow: 0px 0px 5px #888888;
 }
 
@@ -218,6 +240,7 @@ color: white;
  }
 
 .marketing{
+  margin-top: 74px;
     padding: 10px;
    background-color: #fff;
     box-shadow: 0px 0px 4px #888888;
