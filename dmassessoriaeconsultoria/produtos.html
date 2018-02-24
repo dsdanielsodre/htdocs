@@ -9,36 +9,21 @@
       <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-      <script>
-        function initMap() {
-          var uluru = {lat: -23.677788, lng:-46.745574};
-          var map = new google.maps.Map(document.getElementById('map'), {
-            zoom: 17,
-            center: uluru
-          });
-          var marker = new google.maps.Marker({
-            position: uluru,
-            map: map
-          });
-        }
-      </script>
+
+      <!-- Maps -->
+      <script src="js/maps.js"></script>
       <script async defer
       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBQAx6CLr0p1zQFDhB-5lHxn_8X49pkAxE&callback=initMap">
       </script>
+
+        <!-- Maps -->
+
       <title>DM Assesoria e Consultoria</title>
-
-
-          <style>
-             #map {
-              height: 400px;
-              width: 100%;
-             }
-          </style>
 
    </head>
    <body>
       <header>
-         <nav class="navbar navbar-expand-md navbar-dark bg-dark" style="red"> <!--fixed-top-->
+         <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark" style="red"> <!--fixed-top-->
             <a class="navbar-brand" href="index.html">DM Assesoria e Consultoria</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -77,9 +62,9 @@
          <!-- Marketing messaging and featurettes
             ================================================== -->
          <!-- Wrap the rest of the page in another container to center all the content. -->
-         <div class="container marketing">
 
-           <div class="col-md-2">
+
+           <div class="col-md-2" id="main">
 
              <div class="vertical-menu">
                <a href="#" class="active">Produtos</a>
@@ -90,14 +75,9 @@
                </div>
             </br>
 
-                      <div class="row">
-
-
-
-                   </div> <!-- row-->
+     <div class="container marketing">
 
             <!-- START THE FEATURETTES -->
-            <hr class="featurette-divider">
             <div class="row featurette">
 
                <div class="col-md-7 order-md-2">

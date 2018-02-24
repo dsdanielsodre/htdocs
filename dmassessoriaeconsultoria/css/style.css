@@ -25,19 +25,24 @@ main{
 
 body{
 position: relative;
-background-color: #DCDCDC;
+background-color: #fff;
 }
 
 .navbar .navbar-expand-md{
 
 background-color: red;
-
+margin-bottom: 20px;
 }
 
-.row{
+.row {
 
   width: 100%;
 
+}
+
+#main{
+
+  margin-top: 50px;
 }
 
 .carousel-item{
@@ -99,6 +104,9 @@ height: auto;
 
 .vertical-menu {
     width: 200px;
+    position: ;
+    float: left;
+    margin: 20px;
 }
 
 .vertical-menu a {
@@ -107,6 +115,7 @@ height: auto;
     display: block;
     padding: 12px;
     text-decoration: none;
+
 }
 
 .vertical-menu a:hover {
@@ -148,7 +157,7 @@ float: left;
 
 }
 
- ul {
+ .Menu-vertical > ul {
 list-style-type: none;
 margin: 0;
 padding: 0;
@@ -156,7 +165,7 @@ width: 200px;
 background-color: #f1f1f1;
 }
 
-li a {
+ li  a {
 display: block;
 color: #000;
 padding: 8px 16px;
@@ -195,3 +204,8 @@ color: white;
    color: #daa520 ;
 
  }
+
+
+ #map {
+  height: 400px;
+  width: 100%;
