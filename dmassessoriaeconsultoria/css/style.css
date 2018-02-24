@@ -12,7 +12,7 @@ html{
 
 }
 main{
-  background-color: black;
+  background-color:#e6e6e6;
   margin:  0;
 
 }
@@ -37,7 +37,7 @@ margin-bottom: 20px;
 
 .row {
 
-  margin: 0;
+  margin: auto;
   width: 100%;
 
 }
@@ -45,6 +45,8 @@ margin-bottom: 20px;
 #carousel-slider{
 
   margin:0;
+  left: 0;
+  background-color: green;
 
 }
 
@@ -115,6 +117,7 @@ height: auto;
     position: ;
     float: left;
     margin: 20px;
+     box-shadow: 0px 0px 5px #888888;
 }
 
 .vertical-menu a {
@@ -131,7 +134,7 @@ height: auto;
 }
 
 .vertical-menu a.active {
-    background-color: #4CAF50;
+    background-color: #A30F12;
     color: white;
 }
 
@@ -144,7 +147,7 @@ footer{
   bottom: 0;
   right: 0;
   width: 100%;
-
+   box-shadow: 0px 0px 2px #888888;
 }
 
 .caixa{
@@ -158,6 +161,7 @@ footer{
 
 .Menu-vertical{
 
+width: 300px;
 top: 200px;
 left: 100px;
 position: relative;
@@ -165,11 +169,11 @@ float: left;
 
 }
 
- .Menu-vertical > ul {
+ .Menu-vertical ul {
 list-style-type: none;
 margin: 0;
 padding: 0;
-width: 200px;
+width: 300px;
 background-color: #f1f1f1;
 }
 
@@ -214,8 +218,9 @@ color: white;
  }
 
 .marketing{
-
+    padding: 10px;
    background-color: #fff;
+    box-shadow: 0px 0px 4px #888888;
 
  }
 
