@@ -12,7 +12,7 @@ html{
 
 }
 main{
-
+  background-color: black;
   margin:  0;
 
 }
@@ -28,15 +28,23 @@ position: relative;
 background-color: #fff;
 }
 
+
 .navbar .navbar-expand-md{
 
-background-color: red;
+
 margin-bottom: 20px;
 }
 
 .row {
 
+  margin: 0;
   width: 100%;
+
+}
+
+#carousel-slider{
+
+  margin:0;
 
 }
 
@@ -202,6 +210,12 @@ color: white;
 
 
    color: #daa520 ;
+
+ }
+
+.marketing{
+
+   background-color: #fff;
 
  }
 
