@@ -3,20 +3,56 @@
 <!DOCTYPE html>
 <html>
    <head>
+     <!--LINKS-->
      <link rel="icon" href="logo/logo.ico" type="image/x-icon" />
      <link rel="shortcut icon" href="logo/logo.ico" type="image/x-icon" />
+     <!--LINKS-->
+
+     <!--METAS-->
       <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
       <link rel="stylesheet" href="css/style.css">
+      <!--METAS-->
+
+      <!---SCRIPTS-->
       <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-        <script src="js/dropdown.js"></script>
-      <!-- Maps -->
-      <script src="js/maps.js"></script>
+      <script src="js/dropdown.js"></script>
+
+
+
+    <!-- MAPS -->
+    <script src="js/maps.js"></script>
       <script async defer
-         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBQAx6CLr0p1zQFDhB-5lHxn_8X49pkAxE&callback=initMap"></script>
-      <!-- Maps -->
+         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBQAx6CLr0p1zQFDhB-5lHxn_8X49pkAxE&callback=initMap"></script>  <!-- MAPS -->
+
+
+      <script>
+      /* When the user clicks on the button,
+      toggle between hiding and showing the dropdown content */
+      function myFunction() {
+          document.getElementById("myDropdown").classList.toggle("show");
+      }
+
+      // Close the dropdown if the user clicks outside of it
+      window.onclick = function(event) {
+        if (!event.target.matches('.dropbtn')) {
+
+          var dropdowns = document.getElementsByClassName("dropdown-content");
+          var i;
+          for (i = 0; i < dropdowns.length; i++) {
+            var openDropdown = dropdowns[i];
+            if (openDropdown.classList.contains('show')) {
+              openDropdown.classList.remove('show');
+            }
+          }
+        }
+      }
+      </script>
+  <!---SCRIPTS-->
+
       <title>DM Assesoria e Consultoria</title>
    </head>
    <body>
@@ -29,21 +65,47 @@
          </button>
          <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav mr-auto">
-               <li class="nav-item dropdown">
-                  <a class="nav-link" href="produtos.html">Produtos</a>
-               </li>
-               <li class="nav-item">
-                  <a class="nav-link" href="manutencoes.html">Manutenções</a>
-               </li>
-               <li class="nav-item">
-                  <a class="nav-link" href="normas.html">Normas</a>
-               </li>
-               <li class="nav-item">
-                  <a class="nav-link" href="contato.html">Testes</a>
-               </li>
-               <li class="nav-item">
-                  <a class="nav-link" href="contato.html">Contato</a>
-               </li>
+            <!--  <li><a href="produtos.html">Produtos</a></li>
+              <li><a href="normas.html">Manutenções</a></li>
+              <li><a href="produtos.html">Normas</a></li>
+              <li><a href="contato.html">Contato</a></li> -->
+
+              <div class="btn-group">
+               <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Produtos </button>
+               <div class="dropdown-menu dropdown-menu-right">
+               <button class="dropdown-item" type="button">Action</button>
+               <button class="dropdown-item" type="button">Another action</button>
+               <button class="dropdown-item" type="button">Something else here</button>
+               </div>
+               </div>
+               <div class="btn-group">
+                <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Manutenções </button>
+                <div class="dropdown-menu dropdown-menu-right">
+                <button class="dropdown-item" type="button">Action</button>
+                <button class="dropdown-item" type="button">Another action</button>
+                <button class="dropdown-item" type="button">Something else here</button>
+                </div>
+                </div>
+              <div class="btn-group">
+               <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Normas </button>
+               <div class="dropdown-menu dropdown-menu-right">
+               <button class="dropdown-item" type="button">Action</button>
+               <button class="dropdown-item" type="button">Another action</button>
+               <button class="dropdown-item" type="button">Something else here</button>
+               </div>
+               </div>
+
+             <div class="btn-group">
+              <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Contato
+              </button>
+              <div class="dropdown-menu dropdown-menu-right">
+              <button class="dropdown-item" type="button">Action</button>
+              <button class="dropdown-item" type="button">Another action</button>
+              <button class="dropdown-item" type="button">Something else here</button>
+              </div>
+              </div>
+            </ul>
 
 
 
@@ -161,8 +223,9 @@
 
             <!-- /.row -->
             <!-- START THE FEATURETTES -->
-            <hr class="featurette-divider">
+
             <div class="row featurette">
+                <hr class="featurette-divider">
                <div class="col-md-7">
                   <h2 class="featurette-heading">Nossos Produtos. <span class="text-muted">Peças e Acessórios para Extintores de Incendio.</span></h2>
                   <p class="lead">Donec ullamcorper nulla non metus auctor fringilla.
@@ -175,8 +238,9 @@
                   <img class="featurette-image img-fluid mx-auto" src="img/valvula2.jpg" alt="Generic placeholder image">
                </div>
             </div>
-            <hr class="featurette-divider">
+
             <div class="row featurette">
+              <hr class="featurette-divider">
                <div class="col-md-7 order-md-2">
                   <h2 class="featurette-heading">Manutenções. <span class="text-muted">Extintores de Incêndio.</span></h2>
                   <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
@@ -187,8 +251,9 @@
                </div>
             </div>
             <br>
-            <hr class="featurette-divider">
+
             <div class="row featurette">
+                <hr class="featurette-divider">
                <div class="col-md-7">
                   <h2 class="featurette-heading">nr23. <span class="text-muted">Segurança.</span></h2>
                   <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
@@ -211,19 +276,7 @@
                   <div class="caixa">
                      <h2 class="featurette-heading golden">Sobre Nós<span class="text-muted"></h2>
                      <p>
-                     </ul>
-                     <ul>
-                     <li><a href="#home">Home</a></li>
-                     <li><a href="#news">News</a></li>
-                     <li class="dropdown" onclick="myFunction()">
-                       <a href="javascript:void(0)" class="dropbtn" onclick="myFunction()">Dropdown</a>
-                       <div class="dropdown-content">
-                         <a href="#">Link 1</a>
-                         <a href="#">Link 2</a>
-                         <a href="#">Link 3</a>
-                       </div>
-                     </li>
-                   </ul>
+
                      <h5> Na Damiao Machado, nos dedicamos em fornecer a nossos clientes um serviço cordial.
                         Nós valorizamos seu negócio. Tornamos nossa missão o fornecimento de produtos e
                         serviços confiáveis em nossa abordagem voltada ao cliente.
