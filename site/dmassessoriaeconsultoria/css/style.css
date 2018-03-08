@@ -22,10 +22,13 @@ position: relative;
 background-color: #fff;
 }
 
+.nav{
+	background-color: blue;
+	margin: 0px;
+}
 
 .navbar .navbar-expand-md{
 
-  margin-bottom: 200px;
   box-shadow: 0px 0px 5px #fff;
 }
 
@@ -89,10 +92,18 @@ height: 100%;
 
 
 }
+
 .btn-secondary{
 
     background-color: #A30F12;
 }
+
+
+.btn-secondary:hover{
+
+    background-color: #A30F12;
+}
+
 
 .btn-green{
   background-color: #02C54C;
@@ -184,27 +195,6 @@ float: left;
 
 }
 
-/* .Menu-vertical ul {
-list-style-type: none;
-margin: 0;
-padding: 0;
-width: 300px;
-background-color: #f1f1f1;
-}
-
-li  a {
-display: block;
-color: #000;
-padding: 8px 16px;
-text-decoration: none;
-}
-
-li a:hover {
-background-color: #555;
-color: white;
-}
-
-*/
 
 
 .featurette-vertical{
@@ -229,8 +219,8 @@ color: white;
 
  .golden{
 
-
-   color: #daa520 ;
+	margin-bottom: 20px;
+	color: #daa520;
 
  }
 
@@ -275,7 +265,7 @@ color: white;
 
 /* Dropdown Button */
 .dropbtn {
-    min-width: 160px;
+    min-width: 150px;
    background-color: inherit;
    color: white;
    padding: 16px;
@@ -289,7 +279,8 @@ color: white;
 .dropdown {
    position: relative;
    display: inline-block;
-
+   margin: 0px;
+	max-width: 150px;
 }
 
 /* Dropdown Content (Hidden by Default) */
@@ -312,7 +303,7 @@ color: white;
    text-decoration: none;
    display: block;
    font-size: 12px;
-   min-width: 260px;
+	min-width: 260px;
 }
 
 /* Change color of dropdown links on hover */
@@ -342,10 +333,15 @@ color: white;
 }
 
 
-h3{
-  font-size: 23px;
+.col-lg-3 h3{
+  font-size: 22px;
   text-align: left;
   margin: 5px 0px 20px 20px;
+
+}
+
+.col-lg-5{
+height: 240px;
 
 }
 
@@ -353,16 +349,11 @@ h6{
 
 
 font-size: 16px;
-font-family: fantasy;
 
 
 }
 
-#ativo {
 
-background-color: #A30F12;
-
-}
 #ativo,#contato{
 
 color: white;
@@ -374,6 +365,12 @@ text-decoration: none;
 text-align: center;
 }
 
+#ativo {
+background-color: #A30F12;
+margin: 0px 20px;
+padding: 8px;
+}
+
 #ativo:hover{
 
 
@@ -383,7 +380,7 @@ color: #daa520;
 
 #contato:hover{
 
-  background-color: inherit;
+	background-color: inherit;
 
 }
 
@@ -396,6 +393,12 @@ color: #daa520;
 
 }
 
+.conteudo-secundario{
+
+
+  margin: auto 100px auto 100px;
+
+}
 .conteudo-secundario{
 
 
