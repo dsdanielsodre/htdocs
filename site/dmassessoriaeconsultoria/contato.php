@@ -12,29 +12,45 @@
       <title>DM Assessoria e Consultoria</title>
    </head>
    <body>
+
       <?php
          include "menu.php";
 
          ?>
+
+
       <main role="main">
         <!--MARKETING-->
          <div class="container marketing">
            <!--CONTEUDO SECUNDARIO -->
             <div class="conteudo-secundario">
                <h2 class="featurette-heading golden">Fale Conosco<span class="text-muted"></h2>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
+               <h4> Para saber mais sobre a DM Assessoria e Consultoria, nossos produtos e serviços que oferecemos, entre em contato conosco.
                </h4>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
-               </h4>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
-               </h4>
-               <img src="img/caminhao.jpg" alt="Caminhão" style="width:1000px;">
+               <form> <!--FORMS--->
+                <div class="form-group"> <!-- NOME -->
+                  <label for="exampleFormControlInput1">Nome</label>
+                  <input type="nome" class="form-control" id="FormControlName" placeholder="Nome">
+                </div>
+                <div class="form-group"> <!--EMAIL -->
+                    <label for="exampleFormControlInput1">Email</label>
+                  <input type="email" class="form-control" id="FormControlEmail" placeholder="nome@email.com">
+                </div>
+                <div class="form-group"> <!-- TELEFONE -->
+                    <label for="exampleFormControlInput1">Telefone</label>
+                  <input type="phone" class="form-control" id="FormControlPhone" placeholder="(XX)
+                  XXXX-XXXX">
+                </div>
+
+                <div class="form-group"> <!-- SUA MENSAGEM -->
+                  <label for="exampleFormControlTextarea1">Sua Mensagem</label>
+                  <textarea class="form-control" id="FormControlTextarea" rows="3"></textarea>
+                </div>
+
+                <!-- <input type="button" name="botao-ok" value="Enviar">-->
+                <p><a class="btn btn-green" href="#" role="button">Enviar &raquo;</a></p>
+
+              </form>
             </div>
          </div>
          <!--/MARKETING-->
