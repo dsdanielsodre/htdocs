@@ -1,0 +1,144 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+
+	<title>	Geek News </title>
+	
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="responsiveslides.css">
+  <link rel="stylesheet" href="demo.css">
+  
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+  <script src="responsiveslides.min.js"></script>
+  <script>
+    // You can also use "$(window).load(function() {"
+    $(function () {
+
+      // Slideshow 1
+      $("#slider1").responsiveSlides({
+        maxwidth: 800,
+        speed: 800
+      });
+
+      // Slideshow 2
+      $("#slider2").responsiveSlides({
+        auto: false,
+        pager: true,
+        speed: 300,
+        maxwidth: 540
+      });
+
+      // Slideshow 3
+      $("#slider3").responsiveSlides({
+        manualControls: '#slider3-pager',
+        maxwidth: 540
+      });
+
+      // Slideshow 4
+      $("#slider4").responsiveSlides({
+        auto: false,
+        pager: false,
+        nav: true,
+        speed: 500,
+        namespace: "callbacks",
+        before: function () {
+          $('.events').append("<li>before event fired.</li>");
+        },
+        after: function () {
+          $('.events').append("<li>after event fired.</li>");
+        }
+      });
+
+    });
+  </script>
+
+
+	</head>
+
+	<body>
+
+<header id="cabecalho">
+ 
+	<nav>
+		<ul>
+		  <li><a class="active" href="#home">Home</a></li>
+		  <li><a href="#news">News</a></li>
+		  <li><a href="#contact">Contact</a></li>
+		  <li><a href="#about">About</a></li>
+		</ul>
+
+		<hgroup>
+			<h1> Geek News </h1> 
+		</hgroup>
+
+	</nav>
+	    
+
+    <!-- Slideshow 4 -->
+	    <div class="callbacks_container">
+	      <ul class="rslides" id="slider4">
+	        <li>
+	          <img src="IMAGE/thanos.jpg" alt="">
+	          <p class="caption">Thanos faz sua primeira aparição em trailer da Marvel</p>
+	        </li>
+	        <li>
+	          <img src="IMAGE/avangers2.jpg" alt="">
+	          <p class="caption">A História dos Vingadores</p>
+	        </li>
+	        <li>
+	          <img src="IMAGE/ligajustiça.jpg" alt="">
+	          <p class="caption">Novo Filme da liga da Justiça</p>
+	        </li>
+	      </ul>
+	    </div>
+
+		<h3> Notícias mais antigas </h3>
+
+		<div class ="box"> 
+
+		<figure>
+			<img id="antigas" src="IMAGE/starwars.jpg">
+			<figcaption> <h3> Entrevistamos o diretor da saga, novo filme de Star Wars estreia em Dezembro </h3> </figcaption>
+			</figure>
+
+
+
+</div>
+
+	<div class ="box2"> 
+
+		<figure>
+				<img id="antigas" src="IMAGE/marvel.png">
+				<figcaption> <h3> Nova Série da Marvel na Netflix chega hoje(13/09) </h3> </figcaption>
+			</figure>
+
+
+</div>	
+
+	<div class ="box2"> 
+
+		<figure>
+				<img id="antigas" src="IMAGE/marvel.png">
+				<figcaption> <h3> Nova Série da Marvel na Netflix chega hoje(13/09) </h3> </figcaption>
+			</figure>
+
+
+</div>	
+	<div class ="box2"> 
+
+		<figure>
+				<img id="antigas" src="IMAGE/marvel.png">
+				<figcaption> <h3> Nova Série da Marvel na Netflix chega hoje(13/09) </h3> </figcaption>
+			</figure>
+
+
+</div>	
+
+	</body>
+
+
+ 
+</html>

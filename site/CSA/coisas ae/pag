@@ -1,0 +1,47 @@
+<?php
+                                $sql = "SELECT * from tab_usuarios";
+                                try{
+                                    $result = $conexao  ->prepare($sql);
+                                    $result->execute();
+                                    $totalRegistros = $result->rowCount();
+                                }catch(PDOException $error){
+                                    echo $error;
+                                }
+
+                                if($totalRegistros <=$quantidade){}
+                                else{
+                                    $paginas = ceil($totalRegistros/$quantidade);
+                                    $links = 5;
+
+                                    if(isset($i)){}
+                                    else{$i = '1';}
+                                        ?>
+                    
+                                    <div class="pages">
+                    
+                                    <a href="cadastro.php?pg=1">Primeira Página</a>
+
+                                    <?php 
+                                        if(isset($_GET['pg'])){
+                                            $num_pg = $_GET['pg'];
+                                        }
+                                    
+                                        for($i = $pg-$links; $i <= $pg-1; $i++){
+                                            if($i<=0){}
+                                            else{
+                                        ?>
+                                        
+                                        <a href="cadastro.php?pg=<?php echo $i;?>" class="ativo"><?php echo $i;?></a>
+                                        
+                                        
+                                        
+                                        <?php
+                                        }
+                                    }
+                                    
+                                    ?>    
+                                        
+                                    </div>
+                    <?php
+                        }
+                    ?>

@@ -1,0 +1,128 @@
+body{
+text-align: center;
+width: 1200px;
+margin: 10px;
+border: 1px solid #8b0000;
+}
+
+hgroup{
+
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #8b0000;
+}
+
+}
+
+.caixa{
+	width:100px;
+    margin: auto;
+    border: 2px solid red;
+}
+
+.cabecalho{
+text-align: center;
+width: 200px;
+margin: auto;
+border: 1px solid red;
+border: 5px solid red;
+}
+
+h1{
+
+font-size: 50pt;
+color: rgb(35,137,195);
+text-align: center;
+
+}
+
+
+h2{
+
+font-family: arial;
+font-size: 30pt;
+color: rgb(34,139,34);
+text-align: center;
+text-shadow: 2px 2px 2px #fff;
+}
+
+
+h3{
+
+
+}
+
+
+h4{
+
+
+}
+
+
+h5{
+
+text-align: justify;
+
+
+}
+
+img#thanos1{
+width: 50%;
+height: 50%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #4d4d4d ;
+    text-align: center;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.box{
+
+	height: 300px;
+	width:  300px;
+	margin: 5px 0;
+	background: #4d4d4d;
+
+	border: 1px solid #8b0000;
+}
+
+.box2{
+
+
+	height: 300px;
+	width:  300px;
+	margin: 5px 0;
+	background: #4d4d4d;
+
+	border: 1px solid #8b0000;
+}
+
+img#antigas{
+
+
+	width:300px;
+	height:200px;
+}

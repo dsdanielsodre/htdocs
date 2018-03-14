@@ -1,0 +1,130 @@
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.btn{
+
+	font-family:arial;
+	font-size:14px;
+	text-transform:uppercase; /* maiuscula*/
+	font-weight:700; /*peso da fonte*/
+	border:none;
+	padding:10px;
+	cursor:pointer;
+	display: inline-block;
+	text-decoration: none;
+	margin: auto;
+	
+
+}
+
+.btn:active{
+
+	position: relative;
+	top:5px;
+	box-shadow: none;
+
+}
+
+.btn-green{
+
+	background: green;
+	color:#000;
+	box-shadow: 0 5px 0 #006000; 
+
+}
+
+.btn-green:hover{
+
+	background:#006000;
+	color:#fff;
+	box-shadow: 0 5px 0 #003f00; 
+}
+
+
+.btn-red{
+
+	background: red;
+	color:#000;
+	box-shadow: 0 5px 0 #D90404;
+
+}
+
+.btn-red:hover{
+
+	background:#D90404;
+	color:#fff;
+	box-shadow: 0 5px 0 #9C0303;
+	
+}
+
+.btn-blue{
+
+	background: blue;
+	color:#000;
+	box-shadow: 0 5px 0 #0731A4; 
+
+}
+
+.btn-blue:hover{
+
+	background: #0731A4;
+	color:#fff;
+	box-shadow: 0 5px 0 #081D57; 
+
+}
+
+.btn-yellow{
+
+	background: yellow;
+	color:#000;
+	box-shadow: 0 5px 0 #CBD50C; 
+
+}
+
+.btn-yellow:hover{
+
+	background:#EDF90C;
+	color:#fff;
+	box-shadow: 0 5px 0 #D08203; 
+
+}
+
+.btn-pink{
+
+	background:#F90CF9;
+	color:#000;
+	box-shadow: 0 5px 0 #D206BE; 
+
+}
+
+
+.btn-pink:hover{
+
+	background:#D206BE;
+	color:#fff;
+	box-shadow: 0 5px 0 #8B078B; 
+
+}
+
+
+.btn-lightblue{
+
+	background:#13D8C8;
+	color:#000;
+	box-shadow: 0 5px 0 #078B80; 
+
+}
+
+.btn-lightblue:hover{
+
+	background:#078B80;
+	color:#fff;
+	box-shadow: 0 5px 0 #04635B; 
+
+}
+
