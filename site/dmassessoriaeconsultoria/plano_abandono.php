@@ -22,19 +22,18 @@
            <!--CONTEUDO SECUNDARIO -->
             <div class="conteudo-secundario">
                <h2 class="featurette-heading golden">Plano de Abandono<span class="text-muted"></h2>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
+               <h4>
+              <br>  Treinamento de Plano de Abandono, conforme normas NBR 14.276/99 e NBR 14.277/05 da ABNT, decreto 56.819/2011 SP, NBR 15.219/05 - item C.2.6.
+              No qual é emitido um certificado assinado pelo Responsável com identificação de cada pessoa que participou do Treinamento. <br>
+              <br>1.  Sinais de Alerta; <br>
+              <br>2. Situação de abandono; <br>
+              <br>3.  Formação da Brigada de abandono; <br>
+              <br>4.  Combatente de setor; <br>
+              <br>5. Rotas de abandono; <br>
+              <br>6.  Recomendações especiais. <br> <br>
+
                </h4>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
-               </h4>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
-               </h4>
-               <img src="img/caminhao.jpg" alt="Caminhão" style="width:1000px;">
+
             </div>
          </div>
          <!--/MARKETING-->

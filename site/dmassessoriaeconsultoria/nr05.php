@@ -22,19 +22,25 @@
            <!--CONTEUDO SECUNDARIO -->
             <div class="conteudo-secundario">
                <h2 class="featurette-heading golden">NR05<span class="text-muted"></h2>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
+
+                  <h2 class="featurette-heading red">Curso Anual de Prevenção de Acidente – CIPA <span class="text-muted"></h2>
+                  <h4>
+                  <br>Execução do curso anual de Prevenção de Acidentes, ministrado por profissional especializado em Segurança do Trabalho,
+                   para o empregado designado como representante da CIPA do condomínio, ministrado por Técnico de Segurança do Trabalho,
+                   o treinamento será ministrador no condomínio com carga horário de 4 horas abordando os seguintes assuntos: <br>
+                  <br>1.	Como agir em situações de acidentes do trabalho. <br>
+                  <br>2.	Definição de Agentes Químicos, Físicos, Biológicos, Ergonômico e de Acidentes. <br>
+                  <br>3.	Definição da importância dos programas de prevenção de acidentes e dos treinamentos obrigatórios por lei. <br>
+                  <br>4.	Confecção  e encaminhamento de CAT (Comunicação de Acidente de Trabalho). <br>
+                  <br>5.	Confecção de Mapa de Riscos, estudo do ambiente, das condições de trabalho, bem como dos riscos originados do <br>
+                  processo produtivo; metodologia de investigação e análise de acidentes e doenças do trabalho; noções sobre acidentes e
+                  doenças do trabalho decorrentes de exposição aos riscos existentes na empresa; noções sobre a Síndrome da Imunodeficiência
+                  Adquirida - AIDS, e medidas de prevenção; noções sobre as legislações trabalhistas e previdenciária relativas à segurança e
+                  saúde no trabalho; princípios gerais de higiene do trabalho e de medidas de controle dos riscos; organização da CIPA e outros
+                  assuntos necessários ao exercício das atribuições da Comissão.
+
                </h4>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
-               </h4>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
-               </h4>
-               <img src="img/caminhao.jpg" alt="Caminhão" style="width:1000px;">
+
             </div>
          </div>
          <!--/MARKETING-->

@@ -63,10 +63,13 @@
                 <button class="dropbtn">Treinamentos</button>
                 <div class="dropdown-content">
                    <a href="brigada.php">Brigada de Incêndio: Treinamento de Brigada de Combate a Incêndio</a>
-                   <a href="nr09.php">PPRA - Programa de Prevenção de Riscos Ambientais - NR 09</a>
-                   <a href="nr07.php">Curso de Primeiros Socorros Completo - NR 07</a>
-                   <a href="nr05.php">Curso Anual de Prevenção de Acidente - CIPA - NR 05</a>
-                   <a href="nr06.php">Treinamento no uso de EPI's - NR 06</a>
+
+                    <a href="nr07.php">Curso de Primeiros Socorros Completo - NR 07</a>
+                    <a href="nr05.php">Curso Anual de Prevenção de Acidente - CIPA - NR 05</a>
+                    <a href="nr06.php">Treinamento no uso de EPI's - NR 06</a>
+                    <a href="nr09.php">PPRA - Programa de Prevenção de Riscos Ambientais - NR 09</a>
+                    <a href="nr18.php">Treinamento de Condições e Meio Ambiente de Trabalho - NR 18</a> 
+                    <a href="nr35.php">Trabalho em altura - NR 35</a>
                    <a href="plano_abandono.php">Plano de Abandono</a>
                    <a href="consultoria_combate.php">Consultoria de Combate a Incêndio</a>
                 </div>

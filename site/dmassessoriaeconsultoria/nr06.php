@@ -22,19 +22,18 @@
            <!--CONTEUDO SECUNDARIO -->
             <div class="conteudo-secundario">
                <h2 class="featurette-heading golden">NR06<span class="text-muted"></h2>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
+               <h4>Treinamento de uso correto de EPI (equipamento de proteção individual), ministrado por
+                 Técnico de Segurança do Trabalho, o treinamento será ministrador no condomínio com carga horário de 4 horas abordando os seguintes assuntos: <br>
+                <br>  1.	Conceito legal; <br>
+                <br>  2.	Uso correto; <br>
+                <br>  3.	Quais os EPIs que deverão ser utilizados pelos empregados das empresas ou  condomínio de acordo com as atividades realizadas; <br>
+                <br>  4.	Principais riscos; <br>
+                <br>  5.	Higienização e conservação dos EPIs; <br>
+                <br>  6.	Ficha de controle de entrega de EPIs; <br>
+                <br>  7.	Períodos de substituição dos EPIs. <br> <br>
+
                </h4>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
-               </h4>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
-               </h4>
-               <img src="img/caminhao.jpg" alt="Caminhão" style="width:1000px;">
+
             </div>
          </div>
          <!--/MARKETING-->

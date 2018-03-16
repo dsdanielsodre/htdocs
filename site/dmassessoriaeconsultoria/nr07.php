@@ -22,19 +22,24 @@
            <!--CONTEUDO SECUNDARIO -->
             <div class="conteudo-secundario">
                <h2 class="featurette-heading golden">NR07<span class="text-muted"></h2>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
+                 <h2 class="featurette-heading red">Curso de Primeiros Socorros<span class="text-muted"></h2>
+               <h4>Treinamento em primeiros socorros para empregados e funcionários de empresas, condôminos residenciais, comerciais, indústria,
+                 supermercados entre outros, ministrado por bombeiros com uma ampla experiência no mercado,
+                 o treinamento será ministrador no respetivos setor de trabalho com carga horário de 4 horas abordando os seguintes assuntos: <br>
+                      <br> 1.	Principais causas de acidentes em condomínios <br>
+                      <br> 2.	Principais procedimentos de emergência <br>
+                      <br> 3.	Atendimento em parada cardiorrespiratória <br>
+                      <br> 4.	Atendimento em quedas, ferimentos, torções e fraturas. <br>
+                      <br> 5.	Atendimento em hemorragias <br>
+                      <br> 6.	Atendimento em queimaduras <br>
+                      <br> 7.	Atendimento em engasgamento <br>
+                      <br> 8.	Atendimento em afogamento <br>
+                      <br> 9.	Prevenção de acidentes no lar <br>
+                      <br> 10.	Atendimento a crianças em situações de primeiros socorros <br>
+                      <br> 11.	Acionamento de Bombeiro, Resgate e Ambulâncias. <br> <br>
+
                </h4>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
-               </h4>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
-               </h4>
-               <img src="img/caminhao.jpg" alt="Caminhão" style="width:1000px;">
+
             </div>
          </div>
          <!--/MARKETING-->

@@ -22,19 +22,12 @@
            <!--CONTEUDO SECUNDARIO -->
             <div class="conteudo-secundario">
                <h2 class="featurette-heading golden">Teste Hidrostático e Empatação de Mangueira<span class="text-muted"></h2>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
+               <h4>Toda mangueira de incêndio deve ser inspecionada e ensaiada hidrostaticamente por obrigatoriedade antes de ser colocada em uso (para mangueiras novas pode ser aceito o certificado de ensaio hidrostático do fabricante).
+                 <br>Item 4.2.2 NBR 12779:2004 – Deve-se realizar a inspeção e manutenção em toda a mangueira em uso conforme tabela 1 abaixo.
+
                </h4>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
-               </h4>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
-               </h4>
-               <img src="img/caminhao.jpg" alt="Caminhão" style="width:1000px;">
+
+              <br> <img src="img/tabela_inspecao_manutencao.png" alt="tabela de Inspeção e Manutenção" style=""> <br> <br>
             </div>
          </div>
          <!--/MARKETING-->

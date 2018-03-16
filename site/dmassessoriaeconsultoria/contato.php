@@ -27,6 +27,7 @@
                <h2 class="featurette-heading golden">Fale Conosco<span class="text-muted"></h2>
                <h4> Para saber mais sobre a DM Assessoria e Consultoria, nossos produtos e serviços que oferecemos, entre em contato conosco.
                </h4>
+               <br>
                <form> <!--FORMS--->
                 <div class="form-group"> <!-- NOME -->
                   <label for="exampleFormControlInput1">Nome</label>
@@ -38,8 +39,7 @@
                 </div>
                 <div class="form-group"> <!-- TELEFONE -->
                     <label for="exampleFormControlInput1">Telefone</label>
-                  <input type="phone" class="form-control" id="FormControlPhone" placeholder="(XX)
-                  XXXX-XXXX">
+                  <input type="phone" class="form-control" id="FormControlPhone" placeholder="(XX) XXXX-XXXX">
                 </div>
 
                 <div class="form-group"> <!-- SUA MENSAGEM -->
@@ -48,9 +48,11 @@
                 </div>
 
                 <!-- <input type="button" name="botao-ok" value="Enviar">-->
-                <p><a class="btn btn-green" href="#" role="button">Enviar &raquo;</a></p>
+                <p><a class="btn btn-green" href="#" role="button" style=" float: right;">Enviar &raquo;</a></p>
 
               </form>
+              <br>
+              <br>
             </div>
          </div>
          <!--/MARKETING-->
