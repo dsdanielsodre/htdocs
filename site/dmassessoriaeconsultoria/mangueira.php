@@ -22,19 +22,26 @@
            <!--CONTEUDO SECUNDARIO -->
             <div class="conteudo-secundario">
                <h2 class="featurette-heading golden">Mangueiras<span class="text-muted"></h2>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
-               </h4>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
-               </h4>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
-               </h4>
-               <img src="img/caminhao.jpg" alt="Caminhão" style="width:1000px;">
+                 <br>
+                 <h4>A DM Assessoria e Consultoria é especializada em venda de mangueiras novas e usada, realizamos manutenções de diversos tipos de mangueiras.</h4><br>
+                 <img src="img/mangueiras.jpg" alt="Mangueiras">
+                 <br><br>
+                 <h4>Existem mangueiras para combate a incêndio com diâmetro de 1.1/2” e 2.1/2”, comprimento de 15, 20, 25 e 30 metros e tipo 1, 2, 3, 4 e 5. </h4>
+                 <h2 class="featurette-heading red"> Tipos de Mangueiras<span class="text-muted"></h2><br>
+                 <h4> Tipo 1- Destina-se a edifícios de ocupação residência.<br>
+                   <img src="img/mangueiras1.jpg" alt="Mangueira"><br>
+                 Tipo 2 - Destina-se a edifícios de ocupação comercial e industrial ou Corpo de Bombeiros.<br>
+                 <img src="img/mangueiras1.1.jpg" alt="Mangueira"><br>
+                 Tipo 3 - Destina-se a áreas navais e industriais ou Corpo de Bombeiros
+                 Características Técnicas<br>
+                 <img src="img/mangueiras1.1.jpg" alt="Mangueira"><br>
+                 Tipo 4 - Destina-se a área industrial, na qual é desejável uma maior resistência à abrasão.<br>
+                 <img src="img/mangueiras2.jpg" alt="Mngueira"> <br>
+                 Tipo 5 - Destina-se a área industrial, na qual é desejável uma alta resistência a abrasão e superfícies quentes</h4><br>
+                 <img src="img/mangueiras2.jpg" alt="Mangueira">
+
+
+
             </div>
          </div>
          <!--/MARKETING-->

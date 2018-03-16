@@ -22,19 +22,11 @@
            <!--CONTEUDO SECUNDARIO -->
             <div class="conteudo-secundario">
                <h2 class="featurette-heading golden">Manutenção de Extintores de Incêdio<span class="text-muted"></h2>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
-               </h4>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
-               </h4>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
-               </h4>
-               <img src="img/caminhao.jpg" alt="Caminhão" style="width:1000px;">
+               <h4>A DM Assessoria e Consultoria vêm com o objetivo de conscientizar a importância da prevenção no combate a incêndio, pois muitas pessoas podem imaginar que o extintor é um equipamento ultrapassado. Porém, estatísticas mostram que cerca de 90% dos incêndios  se desenvolvem a partir de minúsculos focos, tais como aqueles originados de curto circuito, pontas de cigarro jogadas inadvertidamente, Infelizmente muitas pessoas não são treinadas para utilizarem os aparelhos extintores. Isso é facilmente verificado, pois em muitos incêndios, os bombeiros encontram os extintores intactos nas paredes da edificação, por isso a importância de uma manutenção preventiva.<h4>
+
+                       <img src="img/goodway.jpg" alt="Goodway" style="width: 100%;">
+               <img src="img/manutencao_extintor.jpg" alt="Manutenção"  style="width: 100%;">
+
             </div>
          </div>
          <!--/MARKETING-->

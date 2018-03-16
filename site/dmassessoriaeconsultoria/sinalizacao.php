@@ -22,19 +22,30 @@
            <!--CONTEUDO SECUNDARIO -->
             <div class="conteudo-secundario">
                <h2 class="featurette-heading golden">Sinalização de Emergência<span class="text-muted"></h2>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
-               </h4>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
-               </h4>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
-               </h4>
-               <img src="img/caminhao.jpg" alt="Caminhão" style="width:1000px;">
+
+          <h4>
+          A sinalização de emergência tem como objetivo informar e direcionar os ocupantes da edificação, em caso de incêndio, reduzindo a probabilidade de ocorrência
+          de acidentes, e em caso deste, indicar as ações apropriadas de combate e utilização dos meios existentes no local.</h4>
+          <h2 class="featurette-heading red">Tipos de Setas<span class="text-muted"></h2>
+
+
+            <h4>   •	Setas de Extintores<br> </h4>
+     <h3 style="text-align:center;">
+       <br><img src="img/seta_extintores.jpg" alt="Setas de Extintores"><br> </h3>
+
+      <h4> <br>•	Setas de Hidrante<br> </h4>
+     <h3 style="text-align:center;">
+        <br><img src="img/seta_hidrantes.jpg" alt="Setas de Hidrante"><br></h3>
+
+      <h4><br>•	Setas de Rota de Fuga ou Saída de Emergência<br> </h4>
+     <h3 style="text-align:center;">
+        <br><img src="img/seta_fuga.jpg" alt="Setas de Rota de Fuga ou Saída de Emergência"></h3>
+
+
+
+
+
+
             </div>
          </div>
          <!--/MARKETING-->

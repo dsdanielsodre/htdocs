@@ -21,20 +21,18 @@
          <div class="container marketing">
            <!--CONTEUDO SECUNDARIO -->
             <div class="conteudo-secundario">
-               <h2 class="featurette-heading golden">Nossa Missão<span class="text-muted"></h2>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
-               </h4>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
-               </h4>
-               <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
-                  A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
-                  Nosso corpo diretivo é composto de engenheiro, técnico de segurança do Trabalho e Bombeiros com ampla experiência nas áreas.
-               </h4>
-               <img src="img/caminhao.jpg" alt="Caminhão" style="width:1000px;">
+               <h2 class="featurette-heading golden">Nossa Missão, Visão e Valores<span class="text-muted"></h2>
+
+
+                 <h2 class="featurette-heading red">Missão<span class="text-muted"></h2>
+                    <h4>Executar todos os serviços dentro das normatizações junto ao Corpo de Bombeiro do estado de São Paulo e Departamento de Segurança do Trabalho, seguindo as normas, leis e portarias.  </h4>
+
+                 <h2 class="featurette-heading red">Visão<span class="text-muted"></h2>
+               <h4>  Oferecer aos clientes uma prestação serviços de qualidade visando alcançar a excelência do segmento de segurança. </h4>
+
+              <h2 class="featurette-heading red">Valores<span class="text-muted"></h2>
+               <h4>Honestidade com os clientes, competência na prestação de serviços e a qualificação de nossas equipes de trabalho.</h4>
+
             </div>
          </div>
          <!--/MARKETING-->
