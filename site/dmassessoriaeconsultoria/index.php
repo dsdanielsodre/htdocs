@@ -18,7 +18,7 @@
          ?>
       <main role="main">
          <div class="container marketing">
-            <div class="row"  id="carousel-slider">
+            <div class="row"  id="">
                <div class="col-md-12">
                   <div id="myCarousel" class="carousel slide" data-ride="carousel"  style="text-align:center">
                      <ol class="carousel-indicators">
@@ -28,32 +28,33 @@
                      </ol>
                      <div class="carousel-inner">
                         <div class="carousel-item active">
-                           <img class="first-slide" src="img/goodway.jpg" alt="goodway">
+                           <img class="first-slide" src="img/slide1.png" alt="Treinamento">
                            <div class="container">
-                              <div class="carousel-caption text-left">
-                                 <h1>Manutenção.</h1>
-                                 <p>Agende sua manutenção de extintores hoje.</p>
-                                 <p><a class="btn btn-lg btn-primary" href="contato.html" role="button">Agende aqui</a></p>
+                              <div class="carousel-caption text-left"  id="down">
+                                 <h1></h1>
+                                 <p></p>
+                                 <p><a class="btn btn-lg btn-primary" href="contato.html" role="button">Agende seu Treinamento</a></p>
                               </div>
                            </div>
                         </div>
                         <div class="carousel-item">
-                           <img class="second-slide" src="img/mangueira.jpg" alt="Second slide">
+                           <img class="second-slide" src="img/slide2.png" alt="Second slide">
                            <div class="container">
                               <div class="carousel-caption">
-                                 <h1>Teste Hidrostatico e Empatacão de Mangueira.</h1>
-                                 <p>Tabela de frequência de Inspeção e Manutenção.</p>
+                                 <h1></h1>
+                                 <p></p>
                                  <p><a class="btn btn-lg btn-primary" href="#" role="button">Ler Mais</a></p>
                               </div>
                            </div>
                         </div>
                         <div class="carousel-item">
-                           <img class="third-slide" src="img/extintores3.jpg" alt="Third slide">
+                           <img class="third-slide" src="img/slide3.png" alt="Third slide">
                            <div class="container">
                               <div class="carousel-caption text-right">
-                                 <h1>One more for good measure.</h1>
-                                 <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                                 <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+                                 <h3>Venda e Recarga de extintores,
+
+                                 <p>mangueiras e equipamentos.</h3></p>
+                                 <p><a class="btn btn-lg btn-primary" href="#" role="button">Saiba mais</a></p>
                               </div>
                            </div>
                         </div>
@@ -69,7 +70,7 @@
                   </div>
                </div>
             </div>
-            <hr class="featurette-divider">
+
             <!-- row-->
             <!-- Marketing messaging and featurettes
                ================================================== -->
@@ -115,7 +116,7 @@
                </div>
                <div class="col-lg-3">
                   <img class="rounded-circle" src="img/fire.png" alt="Generic placeholder image">
-                  <h3>RECARGA E MANUTEMÇÃO</h3>
+                  <h3>RECARGA E MANUTENÇÃO</h3>
                   <!-- nr23 -->
                   <p>
                   <h6>Recarga e Manutenção de Extintores Contra Incêndio. Extintores de incêndio não
@@ -140,12 +141,27 @@
                   <h3>INFORMATIVOS</h3>
                   <!-- nr23 -->
                   <p>NR 23 Inspeção de extintores de incêndio.</p>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                     incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                     exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                     Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                  </p>
+                  <div class="quadrado">
+                    03
+                    <br>
+                    JUL
+                  </div>
+                    <div class="calendario">
+
+
+                  </div>
+
+                  <div class="quadrado">
+                    03
+                    <br>
+                    JUL
+                  </div>
+                  <div class="quadrado">
+                    17
+                    <br>
+                    JUL
+                  </div>
+
                </div>
             </div>
             <div class="col-lg-12" style="margin:0px;">
@@ -177,9 +193,12 @@
                   <h5>ID: -</h5>
                   </p>
                   <p>
-                  <h5>Email: damiaomachado2013@bol.com.br </h5>
+                  <h5>Email: damiao@assessoriaeconsultoria.com.br </h5>
+
                   </p>
+
                </div>
+
                <div class="col-lg-5" style="margin:50px;">
                   <h2 class="featurette-heading golden">Sobre Nós<span class="text-muted"></h2>
                   <p>
