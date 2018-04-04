@@ -87,8 +87,8 @@ background-color: #fff;
 #logo{
 
 margin:0;
-width: 100%;
-height: 100%;
+width: 200px;
+height: 20px;
 
 }
 
@@ -100,7 +100,7 @@ height: 100%;
 .navbar-brand{
 
 margin: 0;
-margin-right: 70px;
+margin-right: 0px;
 width: auto;
 height: 100%;
 
@@ -312,6 +312,7 @@ float: left;
    border: none;
    margin: 0px 40px 0 0;
 
+
 }
 
 /* The container <div> - needed to position the dropdown content */
@@ -320,6 +321,7 @@ float: left;
    display: inline-block;
    margin: 0px;
 	max-width: 150px;
+   margin-left: 0px;
 }
 
 /* Dropdown Content (Hidden by Default) */

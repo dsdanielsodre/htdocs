@@ -78,9 +78,15 @@
             </br>
             <!-- Three columns of text below the carousel -->
             <div class="row">
+              <div class="col-lg-12">
+                   <hr class="featurette-divider">
+              </div>
+
                <div class="col-lg-3">
+
                   <img class="rounded-circle" src="img/shopping.png" alt="Generic placeholder image">
-                  <h3>NOSSOS PRODUTOS</h3>
+                  <h3>NOSSOS
+                     <p> PRODUTOS</h3></p>
                   <!-- PRODUTOS -->
                   <p>
                   <h6>Trabalhamos com uma vasta linha de produtos de prevenção e combate a incêndio: Extintores, Mangueiras,
@@ -131,14 +137,18 @@
             </div>
             <hr class="featurette-divider">
             <div class="row">
-               <div class="col-lg-6 ">
+               <div class="col-lg-6 col-sm-12 ">
                   <h3>ENTRE EM CONTATO</h3>
                   <!-- nr23 -->
                   <p>Temos uma equipe de profissionais preparados para melhor identificar sua necessidade, entre em contato e solicite uma visita. (011) 957938458.</p>
-                  <img src="img/recarga.jpg" alt="Generic placeholder image" width="500" height="330">
+                  <img src="img/recarga.jpg" alt="Generic placeholder image" class="foto" >
                </div>
-               <div class="col-lg-6">
+
+
+               <div class="col-lg-6  col-sm-12 ">
+                   <hr class="featurette-divider">
                   <h3>INFORMATIVOS</h3>
+
                   <!-- nr23 -->
                   <p>NR 23 Inspeção de extintores de incêndio.</p>
                   <div class="quadrado">
@@ -165,7 +175,7 @@
                </div>
             </div>
             <div class="col-lg-12" style="margin:0px;">
-               <div class="">
+               <div class="localizacao">
                   <hr class="featurette-divider">
                   <h2 class="featurette-heading">LOCALIZAÇÃO<span class="text-muted"></h2>
                   <div id="map"></div>
@@ -178,7 +188,7 @@
          <!-- FOOTER -->
          <footer>
             <div class="row" id="caixa">
-               <div class="col-lg-5"  style="margin:50px;">
+               <div class="rodape col-sm-12 col-lg-5">
                   <h2 class="featurette-heading golden">Contato<span class="text-muted"></h2>
                   </p>
                   <h5>
@@ -188,8 +198,11 @@
                   </p>
                   <br>
                   <p>
-                  <h5>Fone 1: +55 (011) 9.5793-8458 (TIM)</h5>
-                  <h5>Fone 2: +55 (011) 9.4611-1673 (nextel)</h5>
+                  <h5>Fone 1: <p>
+                     +55 (011) 9.5793-8458 (TIM)</h5></p>
+
+                  <h5>Fone 2:<p>
+                    +55 (011) 9.4611-1673 (nextel)</h5></p>
                   <h5>ID: -</h5>
                   </p>
                   <p>
@@ -199,7 +212,7 @@
 
                </div>
 
-               <div class="col-lg-5" style="margin:50px;">
+               <div class="rodape col-sm-12 col-lg-5">
                   <h2 class="featurette-heading golden">Sobre Nós<span class="text-muted"></h2>
                   <p>
                   <h5> Na DM Assessoria e Consultoria, nos dedicamos em fornecer a nossos clientes um serviço cordial.
