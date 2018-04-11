@@ -54,7 +54,7 @@
                                  <h3>Venda e Recarga de extintores,
 
                                  <p>mangueiras e equipamentos.</h3></p>
-                                 <p><a class="btn btn-lg btn-primary" href="#" role="button">Saiba mais</a></p>
+                                 <p><a class="btn btn-lg btn-primary" href="extintores.php" role="button">Saiba mais</a></p>
                               </div>
                            </div>
                         </div>
@@ -171,11 +171,7 @@
                     <br>
                     JUL
                   </div>
-                  <div class="quadrado">
-                    17
-                    <br>
-                    JUL
-                  </div>
+
 
                </div>
             </div>

@@ -20,13 +20,18 @@
         <!--MARKETING-->
          <div class="container marketing">
            <!--CONTEUDO SECUNDARIO -->
+           <div class="row">
+              <div class="col-xs-12 col-sm-12  col-lg-12 col-lg-12  " style=>
             <div class="conteudo-secundario">
                <h2 class="featurette-heading golden">Extintores de Incêndio<span class="text-muted"></h2>
-                  <h4>A DM Assessoria e Consultoria são especializadas em venda e manutenção de
-                    diversos tipos de extintores; como extintores portáteis, sobre roda e estacionário.</h4>
+                  <h4>A DM Assessoria e Consultoria é especializada em venda e manutenção de
+                    diversos tipos de extintores: como extintores os portáteis, sobre roda e estacionário.</h4>
                        <h3 style="text-align:center"><img src="img/extintores_tipos.jpg" alt="Tipos de Extintores de Incêndio">
                       <br>
                       <img src="img/extintores_incendio.jpg" alt="Extintores de Incêndio"></h3>
+                    </div>
+
+                      </div>
             </div>
          </div>
          <!--/MARKETING-->
