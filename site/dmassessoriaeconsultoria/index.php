@@ -93,7 +93,7 @@
                      Placas de Sinalização, Caixas de Hidrante, suporte para extintores e diversos tipos de acessórios.
                   </h6>
                   </p>
-                  <p><a class="btn btn-secondary" href="produtos.html" role="button">VER PRODUTOS &raquo;</a></p>
+                  <p><a class="btn btn-secondary" href="extintores.php" role="button">VER PRODUTOS &raquo;</a></p>
                </div>
                <!-- /.col-lg-4 -->
                <div class="col-lg-3">
@@ -105,7 +105,7 @@
                      trabalham em conjunto com engenheiros extremamente experientes.
                   </h6>
                   </p>
-                  <p><a class="btn btn-secondary" href="manutencoes.html" role="button">LEIA MAIS &raquo;</a></p>
+                  <p><a class="btn btn-secondary disabled" href="manutencoes.html" role="button">LEIA MAIS &raquo;</a></p>
                </div>
                <!-- /.col-lg-4 -->
                <div class="col-lg-3">
@@ -118,7 +118,7 @@
                      Treinamento no uso de EPI.
                   </h6>
                   </p>
-                  <p><a class="btn btn-secondary" href="nr23.html" role="button">SAIBA MAIS &raquo;</a></p>
+                  <p><a class="btn btn-secondary" href="brigada.php" role="button">SAIBA MAIS &raquo;</a></p>
                </div>
                <div class="col-lg-3">
                   <img class="rounded-circle" src="img/fire.png" alt="Generic placeholder image">
@@ -130,7 +130,7 @@
                      como um equipamento que preserva vidas e patrimônio.
                   </h6>
                   </p>
-                  <p><a class="btn btn-secondary" href="nr23.html" role="button">LEIA MAIS &raquo;</a></p>
+                  <p><a class="btn btn-secondary" href="manutecao_extintores_incendio.php" role="button">LEIA MAIS &raquo;</a></p>
                </div>
                <!-- /.row -->
                <!-- START THE FEATURETTES -->
@@ -145,8 +145,13 @@
                </div>
 
 
-               <div class="col-lg-6  col-sm-12 ">
-                   <hr class="featurette-divider">
+               <div class="col-lg-6  col-sm-12 hidden-lg">
+
+
+
+                   <hr class="featurette-divider ">
+
+
                   <h3>INFORMATIVOS</h3>
 
                   <!-- nr23 -->

@@ -13,7 +13,7 @@
           <ul class="navbar-nav mr-auto" >
              <!--<a href="index.php" class="dropbtn" role="button" id="ativo">DM <br> Assessoria e Consultoria</a>-->
              <div class="dropdown">
-                <button class="dropbtn">Quem Somos</button>
+                <button class="dropbtn dropdown-toggle">Quem Somos</button>
                 <div class="dropdown-content">
                    <a href="historico.php">Historico</a>
                    <a href="objetivo.php">Nosso Objetivo</a>
@@ -22,8 +22,14 @@
                 </div>
              </div>
              <div class="dropdown">
-                <button class="dropbtn">Produtos</button>
+                <button class="dropbtn dropdown-toggle">Produtos</button>
                 <div class="dropdown-content">
+                  <a class="dropdown-toggle" data-toggle="dropdown" href="#">About <span class="caret"></span></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="#">Page 1-1</a></li>
+                    <li><a href="#">Page 1-2</a></li>
+                    <li><a href="#">Page 1-3</a></li>
+                  </ul>
                    <a href="extintores.php">Extintores de Incêndio</a>
                    <a href="mangueira.php">Mangueiras</a>
                    <a href="sinalizacao.php">Sinalização de Emergência</a>
@@ -34,7 +40,7 @@
                 </div>
              </div>
              <div class="dropdown">
-                <button class="dropbtn">Serviços</button>
+                <button class="dropbtn dropdown-toggle">Serviços</button>
                 <div class="dropdown-content">
                    <a href="manutecao_extintores_incendio.php">Manutenção de Extintores de Incêdio</a>
                    <!--<a href="processo_manutencao_extintores.php">Processo de Manutenção de Extintores</a> -->
@@ -48,7 +54,7 @@
               <a class="nav-link disabled" href="#" style="font-size:16px; margin-top:8px;">Engenharia</a>
             </li>
              <!-- <div class="dropdown">
-                <button class="dropbtn">Engenharia</button>
+                <button class="dropbtn dropdown-toggle">Engenharia</button>
                 <div class="dropdown-content">
 
                 <a href="certificado_conformidade.php">Certificado de Conformidade</a>
@@ -67,11 +73,11 @@
                 </div>
              </div> -->
              <div class="dropdown">
-                <button class="dropbtn">Treinamentos</button>
+                <button class="dropbtn dropdown-toggle">Treinamentos</button>
                 <div class="dropdown-content">
                    <a href="brigada.php">Brigada de Incêndio: Treinamento de Brigada de Combate a Incêndio</a>
                     <a href="nr07.php">Treinamentos de Primeiros Socorros Completo - NR 07</a>
-                    <a href="nr05.php">Curso Anual de Prevenção de Acidente - CIPA - NR 05</a>
+                    <a href="nr05.php">Treinamento Anual de Prevenção de Acidente - CIPA - NR 05</a>
                     <a href="nr06.php">Treinamento no uso de EPI's - NR 06</a>
                     <!--<a href="nr09.php">PPRA - Programa de Prevenção de Riscos Ambientais - NR 09</a> -->
                     <a href="nr18.php">Treinamento de Condições e Meio Ambiente de Trabalho - NR 18</a>
@@ -80,10 +86,11 @@
                  <!-- <a href="consultoria_combate.php">Consultoria em Combate a Incêndio e Segurança do Trabalho</a> -->
                 </div>
              </div>
-             <li class="nav-item">
+          <!--   <li class="nav-item">
               <a class="nav-link disabled" href="#" style="font-size:16px; margin-top:8px;">Fale Conosco</a>
-            </li>
-            <!-- <a href="contato.php" class="dropbtn disabled" role="button" id="contato">Fale Conosco</a>-->
+            </li> -->
+           <a href="contato.php" class="dropbtn  disabled" role="button" id="contato">Fale Conosco</a>
+           
           </ul>
        </div>
 </header>
