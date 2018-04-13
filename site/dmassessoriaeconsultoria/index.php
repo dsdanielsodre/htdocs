@@ -44,6 +44,7 @@
                                  <h1></h1>
                                  <p></p>
                                  <p><a class="btn btn-lg btn-primary" href="#" role="button">Ler Mais</a></p>
+
                               </div>
                            </div>
                         </div>
@@ -82,55 +83,69 @@
                    <hr class="featurette-divider">
               </div>
 
-               <div class="col-lg-3">
+               <div class="espaco col-lg-3">
 
                   <img class="rounded-circle" src="img/shopping.png" alt="Generic placeholder image">
                   <h3>NOSSOS
                      <p> PRODUTOS</h3></p>
                   <!-- PRODUTOS -->
                   <p>
-                  <h6>Trabalhamos com uma vasta linha de produtos de prevenção e combate a incêndio: Extintores, Mangueiras,
+
+
+                  <div class="box">
+
+                  Trabalhamos com uma vasta linha de produtos de prevenção e combate a incêndio: Extintores, Mangueiras,
                      Placas de Sinalização, Caixas de Hidrante, suporte para extintores e diversos tipos de acessórios.
-                  </h6>
+
+                  </div>
                   </p>
-                  <p><a class="btn btn-secondary" href="extintores.php" role="button">VER PRODUTOS &raquo;</a></p>
+
+                  <p><a class="btn btn-secondary " href="extintores.php" role="button">VER PRODUTOS &rsaquo;</a></p>
+
                </div>
                <!-- /.col-lg-4 -->
-               <div class="col-lg-3">
+               <div class="espaco col-lg-3">
                   <img class="rounded-circle" src="img/config.png" alt="Generic placeholder image">
                   <h3>SERVIÇOS DE ENGENHARIA</h3>
                   <!-- MANUTENÇÕES -->
                   <p>
-                  <h6>A DM Assessoria e Consultoria juntamente com grupo Prevesp
+                    <div class="box">
+                      A DM Assessoria e Consultoria juntamente com grupo Prevesp
                      trabalham em conjunto com engenheiros extremamente experientes.
-                  </h6>
+
+                </div>
                   </p>
-                  <p><a class="btn btn-secondary disabled" href="manutencoes.html" role="button">LEIA MAIS &raquo;</a></p>
+                  <p><a class="btn btn-secondary disabled" href="manutencoes.html" role="button">LEIA MAIS &rsaquo;</a></p>
+
                </div>
                <!-- /.col-lg-4 -->
-               <div class="col-lg-3">
+               <div class="espaco col-lg-3">
                   <img class="rounded-circle" src="img/student.png" alt="Generic placeholder image">
                   <h3>CURSOS E TREINAMENTOS</h3>
                   <!-- nr23 -->
                   <p>
-                  <h6>Oferecemos assessoria e consultorias, treinamentos, capacitação e desenvolvimento técnico, dentre eles:
+                    <div class="box">
+                      Oferecemos assessoria e consultorias, treinamentos, capacitação e desenvolvimento técnico, dentre eles:
                      Curso de Primeiros Socorros, Brigada de Incêndio, Plano de Abandono, Treinamento de CIPA,
                      Treinamento no uso de EPI.
-                  </h6>
+                       </div>
+
                   </p>
-                  <p><a class="btn btn-secondary" href="brigada.php" role="button">SAIBA MAIS &raquo;</a></p>
+                  <p><a class="btn btn-secondary" href="brigada.php" role="button">SAIBA MAIS &rsaquo;</a></p>
                </div>
-               <div class="col-lg-3">
+               <div class="espaco col-lg-3">
                   <img class="rounded-circle" src="img/fire.png" alt="Generic placeholder image">
                   <h3>RECARGA E MANUTENÇÃO</h3>
                   <!-- nr23 -->
                   <p>
-                  <h6>Recarga e Manutenção de Extintores Contra Incêndio. Extintores de incêndio não
+                    <div class="box">
+                    Recarga e Manutenção de Extintores Contra Incêndio. Extintores de incêndio não
                      devem ser encarados apenas como uma obrigatoriedade dos órgãos oficiais, mas sim
                      como um equipamento que preserva vidas e patrimônio.
-                  </h6>
+
+                    </div>
                   </p>
-                  <p><a class="btn btn-secondary" href="manutecao_extintores_incendio.php" role="button">LEIA MAIS &raquo;</a></p>
+                  <p><a class="btn btn-secondary" href="manutecao_extintores_incendio.php" role="button">LEIA MAIS &rsaquo;</a></p>
                </div>
                <!-- /.row -->
                <!-- START THE FEATURETTES -->
@@ -144,36 +159,36 @@
                   <img src="img/recarga.jpg" alt="Generic placeholder image" class="foto" >
                </div>
 
-
-               <div class="col-lg-6  col-sm-12 hidden-lg">
-
-
-
-                   <hr class="featurette-divider ">
-
+                <div class="col-lg-6 col-sm-6 ">
 
                   <h3>INFORMATIVOS</h3>
 
                   <!-- nr23 -->
                   <p>NR 23 Inspeção de extintores de incêndio.</p>
+                  <br>
                   <div class="quadrado">
-                    03
-                    <br>
-                    JUL
+                    <h3>03</h3>
+
+                    <h5 style="color:#fff;">JUL</h5>
                   </div>
                     <div class="calendario">
+                      <a class="titulo" href="prevenção.html" role="button">PREVENEÇÃO DE INCÊNDIO</a><br>
+                      Uma das principais providências que a Comissão Interna de...  </div>
 
-
-                  </div>
-
+                       <br><br><br> <br> <br>
                   <div class="quadrado">
-                    03
-                    <br>
-                    JUL
+                    <h3>03</h3>
+
+                    <h3 style="color:#fff;">JUL</h3>
                   </div>
+                  <div class="calendario">
+                  <a class="titulo" href="contato.html" role="button">TIPOS DE EXTINTORES DE INCÊNDIO</a> <br>
+                    Os extintores de incêndio são normalmente a melhor ferramenta...
+            </div>
+
+              </div>
 
 
-               </div>
             </div>
             <div class="col-lg-12" style="margin:0px;">
                <div class="localizacao">
@@ -182,6 +197,7 @@
                   <div id="map"></div>
                   Bacio de Filicia, 341 - SAO PAULO - SP | CEP: 04914-060
                </div>
+               <br>
             </div>
          </div>
          <!--MARKETING-->

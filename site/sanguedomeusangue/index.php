@@ -25,25 +25,26 @@
                         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                         <li data-target="#myCarousel" data-slide-to="1"></li>
                         <li data-target="#myCarousel" data-slide-to="2"></li>
+						<li data-target="#myCarousel" data-slide-to="3"></li>
                      </ol>
                      <div class="carousel-inner">
                         <div class="carousel-item active">
                            <img class="first-slide" src="img/nos.png" alt="Treinamento">
                            <div class="container">
-                              <div class="carousel-caption text-left"  id="down">
+                               <div class="carousel-caption text-right">
                                  <h1></h1>
                                  <p></p>
-                                 <p><a class="btn btn-lg btn-primary" href="contato.html" role="button">Agende seu Treinamento</a></p>
+                                 <p><a class="btn btn-lg btn-primary" href="contato.php" role="button">Sobre Nós</a></p>
                               </div>
                            </div>
                         </div>
                         <div class="carousel-item">
                            <img class="second-slide" src="img/doacao.png" alt="Second slide">
                            <div class="container">
-                              <div class="carousel-caption">
+                              <div class="carousel-caption text-right">
                                  <h1></h1>
                                  <p></p>
-                                 <p><a class="btn btn-lg btn-primary" href="#" role="button">Ler Mais</a></p>
+                                 <p><a class="btn btn-lg btn-primary" href="postos_doacao.php" role="button">Postos de Doação</a></p>
                               </div>
                            </div>
                         </div>
@@ -51,10 +52,10 @@
                            <img class="third-slide" src="img/parceiros.png" alt="Third slide">
                            <div class="container">
                               <div class="carousel-caption text-right">
-                                 <h3>Venda e Recarga de extintores,
+                                 <h3>
 
-                                 <p>mangueiras e equipamentos.</h3></p>
-                                 <p><a class="btn btn-lg btn-primary" href="#" role="button">Saiba mais</a></p>
+                                 <p></h3></p>
+                                 <p><a class="btn btn-lg btn-primary" href="pro_sangue.php" role="button">Instittuições Parceiras</a></p>
                               </div>
                            </div>
                         </div>
@@ -62,10 +63,8 @@
                            <img class="third-slide" src="img/medula.png" alt="Third slide">
                            <div class="container">
                               <div class="carousel-caption text-right">
-                                 <h3>Venda e Recarga de extintores,
-
-                                 <p>mangueiras e equipamentos.</h3></p>
-                                 <p><a class="btn btn-lg btn-primary" href="#" role="button">Saiba mais</a></p>
+                                 <h3></h3></p>
+                                 <p><a class="btn btn-lg btn-primary" href="meduala_ossea.php" role="button">Doações de Medula Óssea</a></p>
                               </div>
                            </div>
                         </div>
@@ -95,7 +94,7 @@
 
                <div class="col-lg-3">
 
-                  <img class="rounded-circle" src="img/nos.png" alt="Generic placeholder image">
+                  <img class="rounded-circle" src="img/nos_black1.png" alt="Generic placeholder image"  style="padding: 2px;" >
                   <h3>QUEM
                      <p>SOMOS</h3></p>
                   <!-- PRODUTOS -->
@@ -105,12 +104,12 @@
 				  juntamente com o instituições parceiras.
                   </h6>
                   </p>
-                  <p><a class="btn btn-secondary" href="produtos.html" role="button">VER PRODUTOS &raquo;</a></p>
+                  <p><a class="btn btn-secondary" href="missao.php" role="button">VEJA MAIS &raquo;</a></p>
                </div>
                <!-- /.col-lg-4 -->
                <div class="col-lg-3">
-                  <img class="rounded-circle" src="img/doacao.png" alt="Generic placeholder image">
-                  <h3>DOAÇÕES</h3>
+                  <img class="rounded-circle" src="img/doacao_black1.png" alt="Generic placeholder image"  style="padding: 2px;" >
+                  <h3>POSTOS DE DOAÇÃO</h3>
                   <!-- MANUTENÇÕES -->
                   <p>
                   <h6>Saiba como doar sangue, locais para doar, cuidados que devemos ter ao doar sangue, grandes instituições parceiras e
@@ -118,11 +117,11 @@
 
                   </h6>
                   </p>
-                  <p><a class="btn btn-secondary" href="manutencoes.html" role="button">LEIA MAIS &raquo;</a></p>
+                  <p><a class="btn btn-secondary" href="postos_doacao.php" role="button">LEIA SOBRE &raquo;</a></p>
                </div>
                <!-- /.col-lg-4 -->
                <div class="col-lg-3">
-                  <img class="rounded-circle" src="img/parceiros.png" alt="Generic placeholder image">
+                  <img class="rounded-circle" src="img/parceiros_black1.png" alt="Generic placeholder image" style="padding: 2px;" >
                   <h3>INSTITUIÇÕES</h3>
                   <!-- nr23 -->
                   <p>
@@ -130,10 +129,11 @@
 				  sobre a doação de sangue, através da exemplificação de grandes instituições, como a Pro Sangue.
                   </h6>
                   </p>
-                  <p><a class="btn btn-secondary" href="nr23.html" role="button">SAIBA MAIS &raquo;</a></p>
+                  <p><a class="btn btn-secondary" href="pro_sangue.html" role="button">SAIBA MAIS &raquo;</a></p>
                </div>
                <div class="col-lg-3">
-                  <img class="rounded-circle" src="img/medula.png" alt="Generic placeholder image">
+                  <img class="rounded-circle" src="img/medula_black1.png" alt="Generic placeholder image"  style="padding: 2px;" >
+				     <h3>DOAÇÕES DE MEDULA ÓSSEA</h3>
                   <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                     Ut enim ad minim veniam, quis nostrud exercitation
                     </h3>
@@ -157,25 +157,25 @@
                   <h6>Fone 1: <p>
                     (11) X.XXXX-XXXX(TIM)</h6></p>
 
-                  <h6>Fone 2:<p>
-                    (11) X.XXXX-XXXX (nextel)</h6></p>
-                  <h6>ID: -</h6>
                   </p>
                   <p>
                   <h6>Email: contato@sanguedomeusangue.com.br </h6>
 
                   </p>
-                  <img src="img/coleta_sangue2.jpeg" alt="Generic placeholder image" class="foto" >
+                  <img src="img/coleta_sangue2.jpeg" alt="Generic placeholder image" class="foto" style="width:1500px; height:330px;">
                </div>
 
 
                <div class="col-lg-6  col-sm-12 ">
-                   <hr class="featurette-divider">
+                   <!--<hr class="featurette-divider">-->
                   <h3>DATAS COMEMORATIVAS</h3>
 
                   <!-- nr23 -->
                   <p>Datas comemorativas de doação de sangue.</p>
-                  <div class="quadrado">
+				   <img class="" src="img/dia_doador.jpeg" style="width:1500px; height:350px;">
+                  
+				  <!--
+				  <div class="quadrado">
                     14
                     <br>
                     JUN
@@ -193,7 +193,7 @@
                     <br>
                     JUL
                   </div>
-
+		-->
                </div>
             </div>
 

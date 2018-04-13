@@ -24,6 +24,9 @@
                <h2 class="featurette-heading golden">Manutenção de Extintores de Incêdio<span class="text-muted"></h2>
                <h4>A DM Assessoria e Consultoria vêm com o objetivo de conscientizar a importância da prevenção no combate a incêndio, pois muitas pessoas podem imaginar que o extintor é um equipamento ultrapassado. Porém, estatísticas mostram que cerca de 90% dos incêndios  se desenvolvem a partir de minúsculos focos, tais como aqueles originados de curto circuito, pontas de cigarro jogadas inadvertidamente, Infelizmente muitas pessoas não são treinadas para utilizarem os aparelhos extintores. Isso é facilmente verificado, pois em muitos incêndios, os bombeiros encontram os extintores intactos nas paredes da edificação, por isso a importância de uma manutenção preventiva.<h4>
 
+
+
+
                        <img src="img/goodway.jpg" alt="Goodway" style="width: 100%;">
                <img src="img/manutencao_extintor.jpg" alt="Manutenção"  style="width: 100%;">
 

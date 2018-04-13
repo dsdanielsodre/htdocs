@@ -21,7 +21,7 @@
          <div class="container marketing">
            <!--CONTEUDO SECUNDARIO -->
             <div class="conteudo-secundario">
-               <h2 class="featurette-heading golden">Histórico<span class="text-muted"></h2>
+               <h2 class="featurette-heading golden">Postos de Doação<span class="text-muted"></h2>
 
                <h4>DM Assessoria e Consultoria ME é uma empresa que já nasceu com experiência, veio para inovar e dar qualidade ao mercado no ramo de prevenção contra incêndio e em segurança do trabalho  juntamente com grupo Prevesp.
                   A DM Assessoria e Consultaria inicia suas atividades com o respaldo e experiência de um grupo com conhecimento técnico em serviços, laudos, documentação, comercialização de equipamentos de segurança contra incêndio e manutenção de extintores e mangueiras pautadas nas NBR's.
