@@ -204,7 +204,8 @@
                   <hr class="featurette-divider">
                   <h2 class="featurette-heading">LOCALIZAÇÃO<span class="text-muted"></h2>
                   <div id="map"></div>
-                  Bacio de Filicia, 341 - SAO PAULO - SP | CEP: 04914-060
+                  <a href="https://goo.gl/maps/eLF7vj7qzUE2" target="_blank">Bacio de Filicia, 341 - SAO PAULO - SP</a>
+                   | CEP: 04914-060
                </div>
                <br>
             </div>
