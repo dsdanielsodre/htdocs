@@ -86,11 +86,11 @@
                  <!-- <a href="consultoria_combate.php">Consultoria em Combate a Incêndio e Segurança do Trabalho</a> -->
                 </div>
              </div>
-          <!--   <li class="nav-item">
+           <li class="nav-item">
               <a class="nav-link disabled" href="#" style="font-size:16px; margin-top:8px;">Fale Conosco</a>
-            </li> -->
-           <a href="contato.php" class="dropbtn  disabled" role="button" id="contato">Fale Conosco</a>
-           
+            </li>
+            <!-- <a href="contato.php" class="dropbtn  disabled" role="button" id="contato">Fale Conosco</a>-->
+
           </ul>
        </div>
 </header>

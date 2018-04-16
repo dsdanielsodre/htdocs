@@ -17,60 +17,69 @@
 
          ?>
       <main role="main">
+         <div class="container marketing" id="marketing">
+        <div class="row"  id="">
+           <div class="carousel">
+              <div id="myCarousel" class="carousel slide" data-ride="carousel"  style="text-align:center">
+                 <ol class="carousel-indicators">
+                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                 </ol>
+                 <div class="carousel-inner">
+                    <div class="carousel-item active">
+                      <a href="brigada.php">
+                       <img class="first-slide" src="img/slide1.png" alt="Treinamento">
+                     </a>
+                       <div class="container">
+                          <div class="carousel-caption text-left"  id="down">
+                             <h1></h1>
+                             <p></p>
+                             <p><a class="d-none d-md-inline d-lg-inline btn btn-lg btn-primary" href="contato.html" role="button">Agende seu Treinamento</a></p>
+                          </div>
+                       </div>
+                    </div>
+                    <div class="carousel-item">
+                      <a href="teste_hidrostatico_empatacao.php">
+                      <img class="second-slide" src="img/slide2.png" alt="Second slide">
+                       </a>
+                       <div class="container">
+                          <div class="carousel-caption">
+                             <h1></h1>
+                             <p></p>
+                             <p><a class="d-none d-md-inline d-lg-inline btn btn-lg btn-primary" href="#" role="button">Ler Mais</a></p>
+
+                          </div>
+                       </div>
+                    </div>
+                    <div class="carousel-item">
+                        <a href="extintores.php">
+                       <img class="third-slide" src="img/slide3.png" alt="Third slide">
+                      </a>
+                       <div class="container">
+                          <div class="carousel-caption text-right">
+                             <h3 class="d-none d-md-inline d-lg-inline">Venda e Recarga de extintores,
+
+                             <p>mangueiras e equipamentos.</h3></p>
+                             <p><a class="d-none d-md-inline d-lg-inline btn btn-lg btn-primary" href="extintores.php" role="button">Saiba mais</a></p>
+                          </div>
+                       </div>
+                    </div>
+                 </div>
+                 <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                 <span class="sr-only">Previous</span>
+                 </a>
+                 <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                 <span class="sr-only">Next</span>
+                 </a>
+              </div>
+           </div>
+        </div>
+      </div>
          <div class="container marketing">
-            <div class="row"  id="">
-               <div class="col-md-12">
-                  <div id="myCarousel" class="carousel slide" data-ride="carousel"  style="text-align:center">
-                     <ol class="carousel-indicators">
-                        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                        <li data-target="#myCarousel" data-slide-to="1"></li>
-                        <li data-target="#myCarousel" data-slide-to="2"></li>
-                     </ol>
-                     <div class="carousel-inner">
-                        <div class="carousel-item active">
-                           <img class="first-slide" src="img/slide1.png" alt="Treinamento">
-                           <div class="container">
-                              <div class="carousel-caption text-left"  id="down">
-                                 <h1></h1>
-                                 <p></p>
-                                 <p><a class="btn btn-lg btn-primary" href="contato.html" role="button">Agende seu Treinamento</a></p>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="carousel-item">
-                           <img class="second-slide" src="img/slide2.png" alt="Second slide">
-                           <div class="container">
-                              <div class="carousel-caption">
-                                 <h1></h1>
-                                 <p></p>
-                                 <p><a class="btn btn-lg btn-primary" href="#" role="button">Ler Mais</a></p>
 
-                              </div>
-                           </div>
-                        </div>
-                        <div class="carousel-item">
-                           <img class="third-slide" src="img/slide3.png" alt="Third slide">
-                           <div class="container">
-                              <div class="carousel-caption text-right">
-                                 <h3>Venda e Recarga de extintores,
-
-                                 <p>mangueiras e equipamentos.</h3></p>
-                                 <p><a class="btn btn-lg btn-primary" href="extintores.php" role="button">Saiba mais</a></p>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
-                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                     <span class="sr-only">Previous</span>
-                     </a>
-                     <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
-                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                     <span class="sr-only">Next</span>
-                     </a>
-                  </div>
-               </div>
-            </div>
 
             <!-- row-->
             <!-- Marketing messaging and featurettes
@@ -100,7 +109,7 @@
                   </div>
                   </p>
 
-                  <p><a class="btn btn-secondary " href="extintores.php" role="button">VER PRODUTOS &rsaquo;</a></p>
+                  <p><a class="btn btn-secondary" href="extintores.php" role="button">VER PRODUTOS &rsaquo;</a></p>
 
                </div>
                <!-- /.col-lg-4 -->

@@ -24,6 +24,28 @@ text-align: center;
 }
 
 
+.carousel{
+
+  background-color: red;
+  min-height: 600px;
+
+}
+
+
+.carousel-slide{
+
+  background-color: red;
+  min-height: 600px;
+
+}
+
+
+#myCarousel{
+
+  background-color: red;
+  min-height: 600px;
+
+}
 
 
 
