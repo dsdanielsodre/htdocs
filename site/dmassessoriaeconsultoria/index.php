@@ -19,8 +19,8 @@
       <main role="main">
          <div class="container marketing" id="marketing">
         <div class="row"  id="">
-           <div class="carousel">
-              <div id="myCarousel" class="carousel slide" data-ride="carousel"  style="text-align:center">
+           <div class="col-md-12">
+              <div id="myCarousel" class="carousel slide" data-ride="carousel"  style="text-align:center; margin-top:20px;">
                  <ol class="carousel-indicators">
                     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                     <li data-target="#myCarousel" data-slide-to="1"></li>
@@ -35,7 +35,7 @@
                           <div class="carousel-caption text-left"  id="down">
                              <h1></h1>
                              <p></p>
-                             <p><a class="d-none d-md-inline d-lg-inline btn btn-lg btn-primary" href="contato.html" role="button">Agende seu Treinamento</a></p>
+                             <p><a class="d-none d-md-inline d-lg-inline btn btn-lg btn-primary" href="brigada.php" role="button">Agende seu Treinamento</a></p>
                           </div>
                        </div>
                     </div>
@@ -47,7 +47,7 @@
                           <div class="carousel-caption">
                              <h1></h1>
                              <p></p>
-                             <p><a class="d-none d-md-inline d-lg-inline btn btn-lg btn-primary" href="#" role="button">Ler Mais</a></p>
+                             <p><a class="d-none d-md-inline d-lg-inline btn btn-lg btn-primary" href="teste_hidrostatico_empatacao.php" role="button">Ler Mais</a></p>
 
                           </div>
                        </div>
@@ -61,7 +61,7 @@
                              <h3 class="d-none d-md-inline d-lg-inline">Venda e Recarga de extintores,
 
                              <p>mangueiras e equipamentos.</h3></p>
-                             <p><a class="d-none d-md-inline d-lg-inline btn btn-lg btn-primary" href="extintores.php" role="button">Saiba mais</a></p>
+                             <p><a class="d-none d-md-inline d-lg-inline btn btn-lg btn-primary" style="margin:230px;" href="extintores.php" role="button">Saiba mais</a></p>
                           </div>
                        </div>
                     </div>
@@ -164,7 +164,7 @@
                <div class="col-lg-6 col-sm-12 ">
                   <h3>ENTRE EM CONTATO</h3>
                   <!-- nr23 -->
-                  <p>Temos uma equipe de profissionais preparados para melhor identificar sua necessidade, entre em contato e solicite uma visita. (011) 957938458.</p>
+                  <p>Temos uma equipe de profissionais preparados para melhor identificar sua necessidade, entre em contato e solicite uma visita. (11) 9.5793-8458.</p>
                   <img src="img/recarga.jpg" alt="Generic placeholder image" class="foto" >
                </div>
 
@@ -188,7 +188,7 @@
                   <div class="quadrado">
                     <h3>03</h3>
 
-                    <h3 style="color:#fff;">JUL</h3>
+                    <h5 style="color:#fff;">JUL</h5>
                   </div>
                   <div class="calendario">
                   <a class="titulo" href="contato.html" role="button">TIPOS DE EXTINTORES DE INCÊNDIO</a> <br>
@@ -199,7 +199,7 @@
 
 
             </div>
-            <div class="col-lg-12" style="margin:0px;">
+            <div class="col-lg-12" style="margin:0px; margin-bottom: 10px;">
                <div class="localizacao">
                   <hr class="featurette-divider">
                   <h2 class="featurette-heading">LOCALIZAÇÃO<span class="text-muted"></h2>
@@ -207,7 +207,7 @@
                   <a href="https://goo.gl/maps/eLF7vj7qzUE2" target="_blank">Bacio de Filicia, 341 - SAO PAULO - SP</a>
                    | CEP: 04914-060
                </div>
-               <br>
+
             </div>
          </div>
          <!--MARKETING-->
@@ -215,7 +215,7 @@
          <!-- FOOTER -->
          <footer>
             <div class="row" id="caixa">
-               <div class="rodape col-sm-12 col-lg-5">
+               <div class="rodape col-sm-12 col-lg-6">
                   <h2 class="featurette-heading golden">Contato<span class="text-muted"></h2>
                   </p>
                   <h5>
@@ -226,20 +226,21 @@
                   <br>
                   <p>
                   <h5>Fone 1: <p>
-                     +55 (011) 9.5793-8458 (TIM)</h5></p>
+                    (11) 9.5793-8458 (TIM)</h5></p>
 
                   <h5>Fone 2:<p>
-                    +55 (011) 9.4611-1673 (nextel)</h5></p>
+                    (11) 9.4611-1673 (nextel)</h5></p>
                   <h5>ID: -</h5>
                   </p>
                   <p>
-                  <h5>Email: damiao@assessoriaeconsultoria.com.br </h5>
+                  <h5>Email: </h5>
+                  <h5 style="font-size:19px;">damiao@assessoriaeconsultoria.com.br </h5>
 
                   </p>
 
                </div>
 
-               <div class="rodape col-sm-12 col-lg-5">
+               <div class="rodape col-sm-12 col-lg-6">
                   <h2 class="featurette-heading golden">Sobre Nós<span class="text-muted"></h2>
                   <p>
                   <h5> Na DM Assessoria e Consultoria, nos dedicamos em fornecer a nossos clientes um serviço cordial.

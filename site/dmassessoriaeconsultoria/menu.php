@@ -3,7 +3,7 @@
        <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark" style="red">
        <!--fixed-top-->
        <a class="navbar-brand" href="index.php">
-          <img src="img/logodm.png" alt="DM Assessoria e Consultoria" style=" width: 150px; height: 60px;">
+          <img src="img/logodm.png" alt="DM Assessoria e Consultoria" style=" min-width: 150px; height: 60px;">
            </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
        <span class="navbar-toggler-icon"></span>
@@ -24,7 +24,7 @@
              <div class="dropdown">
                 <button class="dropbtn dropdown-toggle">Produtos</button>
                 <div class="dropdown-content">
-                  <a class="dropdown-toggle" data-toggle="dropdown" href="#">About <span class="caret"></span></a>
+              <!-- <a class="dropdown-toggle" data-toggle="dropdown" href="#">About <span class="caret"></span></a> -->
                   <ul class="dropdown-menu">
                     <li><a href="#">Page 1-1</a></li>
                     <li><a href="#">Page 1-2</a></li>
@@ -76,7 +76,7 @@
                 <button class="dropbtn dropdown-toggle">Treinamentos</button>
                 <div class="dropdown-content">
                    <a href="brigada.php">Brigada de Incêndio: Treinamento de Brigada de Combate a Incêndio</a>
-                    <a href="nr07.php">Treinamentos de Primeiros Socorros Completo - NR 07</a>
+                    <a href="nr07.php">Treinamentos de Primeiros Socorros</a>
                     <a href="nr05.php">Treinamento Anual de Prevenção de Acidente - CIPA - NR 05</a>
                     <a href="nr06.php">Treinamento no uso de EPI's - NR 06</a>
                     <!--<a href="nr09.php">PPRA - Programa de Prevenção de Riscos Ambientais - NR 09</a> -->

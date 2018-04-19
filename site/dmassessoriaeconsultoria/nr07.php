@@ -21,8 +21,7 @@
          <div class="container marketing">
            <!--CONTEUDO SECUNDARIO -->
             <div class="conteudo-secundario">
-               <h2 class="featurette-heading golden">NR07<span class="text-muted"></h2>
-                 <h2 class="featurette-heading red">Curso de Primeiros Socorros<span class="text-muted"></h2>
+                 <h2 class="featurette-heading golden">Treinamentos de Primeiros Socorros<span class="text-muted"></h2>
                <h4>Treinamento em primeiros socorros para empregados e funcionários de empresas, condôminos residenciais, comerciais, indústria,
                  supermercados entre outros, ministrado por bombeiros com uma ampla experiência no mercado,
                  o treinamento será ministrador no respetivos setor de trabalho com carga horário de 4 horas abordando os seguintes assuntos: <br>

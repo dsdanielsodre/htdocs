@@ -1,6 +1,6 @@
    <footer>
       <div class="row" id="caixa">
-         <div class="rodape col-sm-12 col-lg-5">
+         <div class="rodape col-sm-12 col-lg-6">
             <h2 class="featurette-heading golden">Contato<span class="text-muted"></h2>
             </p>
             <h5>
@@ -11,20 +11,21 @@
             <br>
             <p>
             <h5>Fone 1: <p>
-               +55 (011) 9.5793-8458 (TIM)</h5></p>
+               (11) 9.5793-8458 (TIM)</h5></p>
 
             <h5>Fone 2:<p>
-              +55 (011) 9.4611-1673 (nextel)</h5></p>
+              (11) 9.4611-1673 (nextel)</h5></p>
             <h5>ID: -</h5>
             </p>
             <p>
-            <h5>Email: damiao@assessoriaeconsultoria.com.br </h5>
+            <h5>Email: </h5>
+            <h5 style="font-size:19px;">damiao@assessoriaeconsultoria.com.br </h5>
 
             </p>
 
          </div>
 
-         <div class="rodape col-sm-12 col-lg-5">
+         <div class="rodape col-sm-12 col-lg-6">
             <h2 class="featurette-heading golden">Sobre Nós<span class="text-muted"></h2>
             <p>
             <h5> Na DM Assessoria e Consultoria, nos dedicamos em fornecer a nossos clientes um serviço cordial.
@@ -40,7 +41,7 @@
          </div>
 
 
-          <div class="col-sm-12">
+          <div class="col-sm-12" style="margin-bottom: 20px;">
 
                    <h2 class="featurette-heading golden">LOCALIZAÇÃO<span class="text-muted"></h2>
                    <div id="map"></div>

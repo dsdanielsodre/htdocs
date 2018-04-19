@@ -41,6 +41,8 @@
             <br>    10.	Instrução de como proceder para desligamento de sistema de gás e energia do prédio. <br>
             <br>    11.	Técnicas de Primeiros Socorros em caso de vitimas nas situações de incêndio e emergência (massagem cardiorrespiratória)
                         e procedimentos em situações de queimaduras. <br> </h4>
+
+                        <!--
                  <h2 class="featurette-heading red">Brigada em Campo<span class="text-muted"></h2> <br>
               <h4>
             <br>    É a simulação do treinamento em campo de treinamento com carga horária de 8 a 12  horas. Muito utilizado por grandes empresas. <br>
@@ -52,9 +54,9 @@
             <br>    NBR 14.276 - ABNT <br> <br>
 
 
-
                </h4>
 
+                         -->
             </div>
          </div>
          <!--/MARKETING-->

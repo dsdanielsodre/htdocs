@@ -32,23 +32,23 @@ text-align: center;
 }
 
 
-.carousel-control-prev-icon, .carousel-control-next-icon  {
 
+.carousel-control-prev-icon, .carousel-control-next-icon  {
     height: 40px;
     width: 40px;
     outline: black;
-    background-color: #d3d3d3;
+    background-color: rgba(0, 0, 0, 0.3);
     background-size: 100%, 100%;
     border-radius: 50%;
-
-
+    border: 1px solid black;
 }
+
 
 .carousel-indicators li{
 
-  border-radius: 50%;
-  width: 15px;
-  height: 15px;
+
+  width: 30px;
+  height: 5px;
   background-color: rgba(0, 0, 0, 0.1);
   border: 1px solid  rgba(0, 0, 0, 0.3);
 
@@ -253,7 +253,6 @@ font-family: 'Open Sans', sans-serif;
 width: 40%;
 height: 10%;
 position:relative;
-left:10%;
 
 }
 
@@ -305,7 +304,6 @@ footer{
   text-align: justify;
 
 
-
 }
 
 
@@ -320,7 +318,6 @@ float: left;
 }
 
 
-}
 
 .featurette-vertical{
   border-right: 1px solid #fff;
@@ -374,8 +371,7 @@ float: left;
  }
 
 .rodape{
-margin:30px 0px 60px 0px;
-
+margin:30px 0px 180px 0px;
 
 
 }
@@ -605,14 +601,14 @@ a.titulo:hover{
 .conteudo-secundario{
 
 
-  margin: 62px 100px auto 100px;
+  margin: auto 100px auto 100px;
 
 
 }
 
 @media only screen and (max-width: 767px) {
-    .conteudo-secundario{
-      margin-left: 0px;
-      margin-right: 0px;
+    .teste {
+        background-color: lightblue;
+        margin:0px;
     }
 }

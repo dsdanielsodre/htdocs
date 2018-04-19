@@ -22,12 +22,18 @@
            <!--CONTEUDO SECUNDARIO -->
             <div class="conteudo-secundario">
                <h2 class="featurette-heading golden">Nosso Objetivo<span class="text-muted"></h2>
-               <h4>
+               <h4 style="margin-bottom: 30px;">
                   Nosso objetivo é estar presente entre as melhores prestadoras de serviços atendendo com seriedade e parceria,
                   todos os nossos clientes com sugestões e soluções de acordo com as normas vigentes.
 
                </h4>
-            
+               <br>
+               <br>
+               <br>
+               <br>
+               <br>
+               
+
             </div>
          </div>
          <!--/MARKETING-->

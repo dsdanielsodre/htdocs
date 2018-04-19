@@ -9,7 +9,7 @@
       <!-- MAPS -->
       <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBQAx6CLr0p1zQFDhB-5lHxn_8X49pkAxE&callback=initMap"></script>
       <!-- MAPS -->
-      <title>Sangue do meu Sangue</title>
+      
    </head>
    <body>
       <?php
@@ -25,7 +25,7 @@
                         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                         <li data-target="#myCarousel" data-slide-to="1"></li>
                         <li data-target="#myCarousel" data-slide-to="2"></li>
-						<li data-target="#myCarousel" data-slide-to="3"></li>
+						             <li data-target="#myCarousel" data-slide-to="3"></li>
                      </ol>
                      <div class="carousel-inner">
                         <div class="carousel-item active">
@@ -55,7 +55,7 @@
                                  <h3>
 
                                  <p></h3></p>
-                                 <p><a class="btn btn-lg btn-primary" href="pro_sangue.php" role="button">Instittuições Parceiras</a></p>
+                                 <p><a class="btn btn-lg btn-primary" href="pro_sangue.php" role="button">Instituições Parceiras</a></p>
                               </div>
                            </div>
                         </div>
@@ -64,7 +64,7 @@
                            <div class="container">
                               <div class="carousel-caption text-right">
                                  <h3></h3></p>
-                                 <p><a class="btn btn-lg btn-primary" href="meduala_ossea.php" role="button">Doações de Medula Óssea</a></p>
+                                 <p><a class="btn btn-lg btn-primary" href="meduala_ossea.php" role="button">Medula Óssea</a></p>
                               </div>
                            </div>
                         </div>
@@ -162,7 +162,9 @@
                   <h6>Email: contato@sanguedomeusangue.com.br </h6>
 
                   </p>
-                  <img src="img/coleta_sangue2.jpeg" alt="Generic placeholder image" class="foto" style="width:1500px; height:330px;">
+                  <h4>
+                  <img src="img/coleta_sangue2.jpeg" alt="Generic placeholder image" class="foto" style="width:1500px; height:330px; max-width:500px;">
+                  </h4>
                </div>
 
 
@@ -173,7 +175,7 @@
                   <!-- nr23 -->
                   <p>Datas comemorativas de doação de sangue.</p>
 				   <img class="" src="img/dia_doador.jpeg" style="width:1500px; height:350px;">
-                  
+
 				  <!--
 				  <div class="quadrado">
                     14
