@@ -22,7 +22,7 @@
            <div class="row">
            <!--CONTEUDO SECUNDARIO -->
             <div class="conteudo-secundario">
-               <h2 class="featurette-heading golden">NR23<span class="text-muted"></h2>
+               <h2 class="featurette-heading golden">NR-23<span class="text-muted"></h2>
                <h2 class="featurette-heading red">Inspeção de Extintores de Incêdio<span class="text-muted"></h2>
                   <br><h4>Consiste em verificar: <br>
                   <br>a) Se o extintor é adequado à classe e risco do fogo; <br>

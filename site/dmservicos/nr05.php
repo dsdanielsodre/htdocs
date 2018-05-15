@@ -22,7 +22,7 @@
            <div class="row">
            <!--CONTEUDO SECUNDARIO -->
             <div class="conteudo-secundario">
-               <h2 class="featurette-heading golden">NR05<span class="text-muted"></h2>
+               <h2 class="featurette-heading golden">NR-5<span class="text-muted"></h2>
 
                   <h2 class="featurette-heading red">Curso Anual de Prevenção de Acidente – CIPA <span class="text-muted"></h2>
                   <h4>

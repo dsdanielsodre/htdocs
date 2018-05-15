@@ -22,7 +22,7 @@
            <div class="row">
            <!--CONTEUDO SECUNDARIO -->
             <div class="conteudo-secundario">
-               <h2 class="featurette-heading golden">NR35<span class="text-muted"></h2>
+               <h2 class="featurette-heading golden">NR-35<span class="text-muted"></h2>
                <h4>O curso  ou treinamento tem como objetivo instruir sobre a norma NR 35 Trabalho em Altura,
                  que estabelece os requisitos mínimos e as medidas de proteção para o Trabalho em Altura, envolvendo o
                   planejamento, a organização e a execução, de forma a garantir a segurança e a saúde dos trabalhadores

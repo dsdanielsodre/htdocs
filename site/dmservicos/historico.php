@@ -32,7 +32,14 @@
 
                    <br>
                </h4>
+               <div class="col-lg-12">
+                  <p>
 
+                       <h2 class="featurette-heading red">Grupo DM Serviços<span class="text-muted"></h2>
+                       <h4 style="text-align:center;">  <img src="img/novo_logodm.png" alt="" style="margin-top: 40px; min-width: 300px;">
+                           </h4>
+                  </p>
+               </div>
             </div>
          </div>
        </div>

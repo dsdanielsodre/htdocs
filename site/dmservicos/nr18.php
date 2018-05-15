@@ -22,7 +22,7 @@
            <div class="row">
            <!--CONTEUDO SECUNDARIO -->
             <div class="conteudo-secundario">
-               <h2 class="featurette-heading golden">NR18<span class="text-muted"></h2>
+               <h2 class="featurette-heading golden">NR-18<span class="text-muted"></h2>
                 <h2 class="featurette-heading red">Condições e Meio Ambiente de Trabalho<span class="text-muted"></h2>
                   <h4>
                     <br> O objetivo do Treinamento NR - 18 é atender as exigências do novo texto da Norma Regulamentadora nº 18 – Condições e Meio Ambiente de Trabalho na Indústria da Construção. <br>

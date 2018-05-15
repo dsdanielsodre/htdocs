@@ -3,7 +3,7 @@
        <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark" style="red">
        <!--fixed-top-->
        <a class="navbar-brand" href="index.php">
-          <img src="img/logodm.png" alt="Grupo DM Serviços" style=" min-width: 150px; height: 60px;">
+          <img src="img/novo_logodm.png" alt="Grupo DM Serviços" style=" min-width: 100px; height: 100px;">
            </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
        <span class="navbar-toggler-icon"></span>

@@ -19,7 +19,7 @@
       <main role="main">
          <div class="container meu" id="marketing_slide" style="width:100%">
         <div class="row"  id="">
-           <div class="col-md-12" style="width:100%">
+           <div class="col-lg-12">
               <div id="myCarousel" class="carousel slide" data-ride="carousel"  style="text-align:center; margin-top:20px;">
                  <ol class="carousel-indicators">
                     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -29,12 +29,12 @@
                  <div class="carousel-inner">
                     <div class="carousel-item active">
                       <a href="brigada.php">
-                       <img class="first-slide" src="img/slide1.png" alt="Treinamento">
+                       <img class="first-slide" src="img/slide_1.png" alt="Treinamento">
                      </a>
                        <div class="container">
                           <div class="carousel-caption text-left"  id="down">
-                             <h1></h1>
-                             <p></p>
+                             <h5></h5>
+
                              <p><a class="d-none d-md-inline d-lg-inline btn btn-lg btn-primary" href="brigada.php" role="button">Agende seu Treinamento</a></p>
                           </div>
                        </div>
@@ -184,8 +184,8 @@
                   </div>
                     <div class="calendario">
                       <a class="titulo" href="prevencao.php" role="button">PREVENEÇÃO DE INCÊNDIO</a><br>
-                      A prevenção é sempre a melhor escolha, e pensando nisso a empresa DM assessoria e
-                      consultoria preocupada com a segurança de sua empresa, indústria, loja, condomínio ...  </div>
+                      A prevenção é sempre a melhor escolha, pensando nisso o grupo DM Serviços se preocupada com a segurança de sua empresa,
+                      indústria, loja, condomínio ...  </div>
 
                        <br><br><br> <br> <br>
                   <div class="quadrado">

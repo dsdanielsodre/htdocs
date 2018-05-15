@@ -22,9 +22,9 @@
            <div class="row">
            <!--CONTEUDO SECUNDARIO -->
             <div class="conteudo-secundario">
-               <h2 class="featurette-heading golden">NR06<span class="text-muted"></h2>
-               <h4>Treinamento de uso correto de EPI (equipamento de proteção individual), ministrado por
-                 Técnico de Segurança do Trabalho, o treinamento será ministrador no condomínio com carga horário de 4 horas abordando os seguintes assuntos: <br>
+               <h2 class="featurette-heading golden">NR-6<span class="text-muted"></h2>
+               <h4>Treinamento de uso correto de EPI (equipamento de proteção individual), ministrado pelo
+                 Técnico de Segurança do Trabalho. O treinamento será realizado no respectivo setor de trabalho, abordando os seguintes assuntos: <br>
                 <br>  1.	Conceito legal; <br>
                 <br>  2.	Uso correto; <br>
                 <br>  3.	Quais os EPIs que deverão ser utilizados pelos empregados das empresas ou  condomínio de acordo com as atividades realizadas; <br>
